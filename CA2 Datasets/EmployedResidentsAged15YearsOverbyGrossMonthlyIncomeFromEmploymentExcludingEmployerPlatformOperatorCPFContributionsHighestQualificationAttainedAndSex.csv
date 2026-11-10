@@ -1,0 +1,3073 @@
+year,sex,gross_monthly_income_excl_emr_cpf,highest_qualification,employed
+2010,male,Under $500,primary and below,5500
+2010,male,Under $500,lower secondary,2400
+2010,male,Under $500,secondary,4900
+2010,male,Under $500,post-secondary (non-tertiary),2300
+2010,male,Under $500,diploma and professional qualification,1400
+2010,male,Under $500,degree,1100
+2010,male,$500 to $999,primary and below,32900
+2010,male,$500 to $999,lower secondary,14300
+2010,male,$500 to $999,secondary,14200
+2010,male,$500 to $999,post-secondary (non-tertiary),8000
+2010,male,$500 to $999,diploma and professional qualification,3900
+2010,male,$500 to $999,degree,1700
+2010,male,"$1,000 to $1,499",primary and below,38500
+2010,male,"$1,000 to $1,499",lower secondary,24100
+2010,male,"$1,000 to $1,499",secondary,30500
+2010,male,"$1,000 to $1,499",post-secondary (non-tertiary),18500
+2010,male,"$1,000 to $1,499",diploma and professional qualification,8700
+2010,male,"$1,000 to $1,499",degree,3900
+2010,male,"$1,500 to $1,999",primary and below,29100
+2010,male,"$1,500 to $1,999",lower secondary,24100
+2010,male,"$1,500 to $1,999",secondary,33900
+2010,male,"$1,500 to $1,999",post-secondary (non-tertiary),23100
+2010,male,"$1,500 to $1,999",diploma and professional qualification,17000
+2010,male,"$1,500 to $1,999",degree,4900
+2010,male,"$2,000 to $2,499",primary and below,17200
+2010,male,"$2,000 to $2,499",lower secondary,16800
+2010,male,"$2,000 to $2,499",secondary,30600
+2010,male,"$2,000 to $2,499",post-secondary (non-tertiary),19500
+2010,male,"$2,000 to $2,499",diploma and professional qualification,25500
+2010,male,"$2,000 to $2,499",degree,13700
+2010,male,"$2,500 to $2,999",primary and below,7400
+2010,male,"$2,500 to $2,999",lower secondary,9200
+2010,male,"$2,500 to $2,999",secondary,20000
+2010,male,"$2,500 to $2,999",post-secondary (non-tertiary),13300
+2010,male,"$2,500 to $2,999",diploma and professional qualification,21000
+2010,male,"$2,500 to $2,999",degree,17000
+2010,male,"$3,000 to $3,999",primary and below,8400
+2010,male,"$3,000 to $3,999",lower secondary,9300
+2010,male,"$3,000 to $3,999",secondary,27500
+2010,male,"$3,000 to $3,999",post-secondary (non-tertiary),19600
+2010,male,"$3,000 to $3,999",diploma and professional qualification,33500
+2010,male,"$3,000 to $3,999",degree,44900
+2010,male,"$4,000 to $4,999",primary and below,1900
+2010,male,"$4,000 to $4,999",lower secondary,3900
+2010,male,"$4,000 to $4,999",secondary,13300
+2010,male,"$4,000 to $4,999",post-secondary (non-tertiary),7600
+2010,male,"$4,000 to $4,999",diploma and professional qualification,19900
+2010,male,"$4,000 to $4,999",degree,37500
+2010,male,"$5,000 to $5,999",primary and below,1900
+2010,male,"$5,000 to $5,999",lower secondary,1900
+2010,male,"$5,000 to $5,999",secondary,8300
+2010,male,"$5,000 to $5,999",post-secondary (non-tertiary),5100
+2010,male,"$5,000 to $5,999",diploma and professional qualification,15300
+2010,male,"$5,000 to $5,999",degree,35600
+2010,male,"$6,000 to $6,999",primary and below,900
+2010,male,"$6,000 to $6,999",lower secondary,900
+2010,male,"$6,000 to $6,999",secondary,3200
+2010,male,"$6,000 to $6,999",post-secondary (non-tertiary),2100
+2010,male,"$6,000 to $6,999",diploma and professional qualification,7100
+2010,male,"$6,000 to $6,999",degree,24500
+2010,male,"$7,000 to $7,999",primary and below,400
+2010,male,"$7,000 to $7,999",lower secondary,300
+2010,male,"$7,000 to $7,999",secondary,2100
+2010,male,"$7,000 to $7,999",post-secondary (non-tertiary),1400
+2010,male,"$7,000 to $7,999",diploma and professional qualification,5600
+2010,male,"$7,000 to $7,999",degree,21400
+2010,male,"$8,000 to $8,999",primary and below,500
+2010,male,"$8,000 to $8,999",lower secondary,800
+2010,male,"$8,000 to $8,999",secondary,1400
+2010,male,"$8,000 to $8,999",post-secondary (non-tertiary),1100
+2010,male,"$8,000 to $8,999",diploma and professional qualification,4000
+2010,male,"$8,000 to $8,999",degree,18200
+2010,male,"$9,000 to $9,999",primary and below,100
+2010,male,"$9,000 to $9,999",lower secondary,400
+2010,male,"$9,000 to $9,999",secondary,800
+2010,male,"$9,000 to $9,999",post-secondary (non-tertiary),900
+2010,male,"$9,000 to $9,999",diploma and professional qualification,2300
+2010,male,"$9,000 to $9,999",degree,10700
+2010,male,"$10,000 to $10,999",primary and below,200
+2010,male,"$10,000 to $10,999",lower secondary,600
+2010,male,"$10,000 to $10,999",secondary,1700
+2010,male,"$10,000 to $10,999",post-secondary (non-tertiary),900
+2010,male,"$10,000 to $10,999",diploma and professional qualification,2700
+2010,male,"$10,000 to $10,999",degree,13000
+2010,male,"$11,000 to $11,999",primary and below,200
+2010,male,"$11,000 to $11,999",lower secondary,100
+2010,male,"$11,000 to $11,999",secondary,500
+2010,male,"$11,000 to $11,999",post-secondary (non-tertiary),400
+2010,male,"$11,000 to $11,999",diploma and professional qualification,1000
+2010,male,"$11,000 to $11,999",degree,7500
+2010,male,"$12,000 and over",primary and below,600
+2010,male,"$12,000 and over",lower secondary,900
+2010,male,"$12,000 and over",secondary,2800
+2010,male,"$12,000 and over",post-secondary (non-tertiary),2300
+2010,male,"$12,000 and over",diploma and professional qualification,7400
+2010,male,"$12,000 and over",degree,45700
+2010,female,Under $500,primary and below,15200
+2010,female,Under $500,lower secondary,5500
+2010,female,Under $500,secondary,9900
+2010,female,Under $500,post-secondary (non-tertiary),4700
+2010,female,Under $500,diploma and professional qualification,2200
+2010,female,Under $500,degree,1200
+2010,female,$500 to $999,primary and below,51300
+2010,female,$500 to $999,lower secondary,20400
+2010,female,$500 to $999,secondary,23300
+2010,female,$500 to $999,post-secondary (non-tertiary),11200
+2010,female,$500 to $999,diploma and professional qualification,6600
+2010,female,$500 to $999,degree,3500
+2010,female,"$1,000 to $1,499",primary and below,26700
+2010,female,"$1,000 to $1,499",lower secondary,18800
+2010,female,"$1,000 to $1,499",secondary,33300
+2010,female,"$1,000 to $1,499",post-secondary (non-tertiary),16200
+2010,female,"$1,000 to $1,499",diploma and professional qualification,11200
+2010,female,"$1,000 to $1,499",degree,7600
+2010,female,"$1,500 to $1,999",primary and below,8700
+2010,female,"$1,500 to $1,999",lower secondary,11000
+2010,female,"$1,500 to $1,999",secondary,31900
+2010,female,"$1,500 to $1,999",post-secondary (non-tertiary),14300
+2010,female,"$1,500 to $1,999",diploma and professional qualification,27100
+2010,female,"$1,500 to $1,999",degree,10800
+2010,female,"$2,000 to $2,499",primary and below,3800
+2010,female,"$2,000 to $2,499",lower secondary,5500
+2010,female,"$2,000 to $2,499",secondary,26800
+2010,female,"$2,000 to $2,499",post-secondary (non-tertiary),9400
+2010,female,"$2,000 to $2,499",diploma and professional qualification,27100
+2010,female,"$2,000 to $2,499",degree,20100
+2010,female,"$2,500 to $2,999",primary and below,1100
+2010,female,"$2,500 to $2,999",lower secondary,2400
+2010,female,"$2,500 to $2,999",secondary,19400
+2010,female,"$2,500 to $2,999",post-secondary (non-tertiary),7300
+2010,female,"$2,500 to $2,999",diploma and professional qualification,21200
+2010,female,"$2,500 to $2,999",degree,21800
+2010,female,"$3,000 to $3,999",primary and below,1200
+2010,female,"$3,000 to $3,999",lower secondary,2700
+2010,female,"$3,000 to $3,999",secondary,22300
+2010,female,"$3,000 to $3,999",post-secondary (non-tertiary),10900
+2010,female,"$3,000 to $3,999",diploma and professional qualification,27500
+2010,female,"$3,000 to $3,999",degree,44300
+2010,female,"$4,000 to $4,999",primary and below,500
+2010,female,"$4,000 to $4,999",lower secondary,700
+2010,female,"$4,000 to $4,999",secondary,10300
+2010,female,"$4,000 to $4,999",post-secondary (non-tertiary),5400
+2010,female,"$4,000 to $4,999",diploma and professional qualification,16600
+2010,female,"$4,000 to $4,999",degree,35600
+2010,female,"$5,000 to $5,999",primary and below,200
+2010,female,"$5,000 to $5,999",lower secondary,500
+2010,female,"$5,000 to $5,999",secondary,5300
+2010,female,"$5,000 to $5,999",post-secondary (non-tertiary),3300
+2010,female,"$5,000 to $5,999",diploma and professional qualification,9500
+2010,female,"$5,000 to $5,999",degree,27500
+2010,female,"$6,000 to $6,999",primary and below,200
+2010,female,"$6,000 to $6,999",lower secondary,100
+2010,female,"$6,000 to $6,999",secondary,2200
+2010,female,"$6,000 to $6,999",post-secondary (non-tertiary),1000
+2010,female,"$6,000 to $6,999",diploma and professional qualification,3900
+2010,female,"$6,000 to $6,999",degree,16700
+2010,female,"$7,000 to $7,999",primary and below,0
+2010,female,"$7,000 to $7,999",lower secondary,100
+2010,female,"$7,000 to $7,999",secondary,900
+2010,female,"$7,000 to $7,999",post-secondary (non-tertiary),1100
+2010,female,"$7,000 to $7,999",diploma and professional qualification,2900
+2010,female,"$7,000 to $7,999",degree,12100
+2010,female,"$8,000 to $8,999",primary and below,100
+2010,female,"$8,000 to $8,999",lower secondary,100
+2010,female,"$8,000 to $8,999",secondary,600
+2010,female,"$8,000 to $8,999",post-secondary (non-tertiary),500
+2010,female,"$8,000 to $8,999",diploma and professional qualification,1500
+2010,female,"$8,000 to $8,999",degree,9500
+2010,female,"$9,000 to $9,999",primary and below,0
+2010,female,"$9,000 to $9,999",lower secondary,0
+2010,female,"$9,000 to $9,999",secondary,500
+2010,female,"$9,000 to $9,999",post-secondary (non-tertiary),300
+2010,female,"$9,000 to $9,999",diploma and professional qualification,400
+2010,female,"$9,000 to $9,999",degree,5500
+2010,female,"$10,000 to $10,999",primary and below,100
+2010,female,"$10,000 to $10,999",lower secondary,200
+2010,female,"$10,000 to $10,999",secondary,500
+2010,female,"$10,000 to $10,999",post-secondary (non-tertiary),400
+2010,female,"$10,000 to $10,999",diploma and professional qualification,1000
+2010,female,"$10,000 to $10,999",degree,5900
+2010,female,"$11,000 to $11,999",primary and below,0
+2010,female,"$11,000 to $11,999",lower secondary,0
+2010,female,"$11,000 to $11,999",secondary,200
+2010,female,"$11,000 to $11,999",post-secondary (non-tertiary),200
+2010,female,"$11,000 to $11,999",diploma and professional qualification,600
+2010,female,"$11,000 to $11,999",degree,3100
+2010,female,"$12,000 and over",primary and below,100
+2010,female,"$12,000 and over",lower secondary,200
+2010,female,"$12,000 and over",secondary,1200
+2010,female,"$12,000 and over",post-secondary (non-tertiary),800
+2010,female,"$12,000 and over",diploma and professional qualification,1400
+2010,female,"$12,000 and over",degree,17400
+2011,male,Under $500,primary and below,4700
+2011,male,Under $500,lower secondary,2100
+2011,male,Under $500,secondary,4800
+2011,male,Under $500,post-secondary (non-tertiary),2100
+2011,male,Under $500,diploma and professional qualification,1500
+2011,male,Under $500,degree,600
+2011,male,$500 to $999,primary and below,33000
+2011,male,$500 to $999,lower secondary,11600
+2011,male,$500 to $999,secondary,12400
+2011,male,$500 to $999,post-secondary (non-tertiary),7600
+2011,male,$500 to $999,diploma and professional qualification,4100
+2011,male,$500 to $999,degree,1800
+2011,male,"$1,000 to $1,499",primary and below,38600
+2011,male,"$1,000 to $1,499",lower secondary,22500
+2011,male,"$1,000 to $1,499",secondary,27300
+2011,male,"$1,000 to $1,499",post-secondary (non-tertiary),15600
+2011,male,"$1,000 to $1,499",diploma and professional qualification,8100
+2011,male,"$1,000 to $1,499",degree,3600
+2011,male,"$1,500 to $1,999",primary and below,30600
+2011,male,"$1,500 to $1,999",lower secondary,23700
+2011,male,"$1,500 to $1,999",secondary,34800
+2011,male,"$1,500 to $1,999",post-secondary (non-tertiary),23300
+2011,male,"$1,500 to $1,999",diploma and professional qualification,15800
+2011,male,"$1,500 to $1,999",degree,5100
+2011,male,"$2,000 to $2,499",primary and below,16900
+2011,male,"$2,000 to $2,499",lower secondary,17200
+2011,male,"$2,000 to $2,499",secondary,30300
+2011,male,"$2,000 to $2,499",post-secondary (non-tertiary),20000
+2011,male,"$2,000 to $2,499",diploma and professional qualification,22700
+2011,male,"$2,000 to $2,499",degree,11700
+2011,male,"$2,500 to $2,999",primary and below,7700
+2011,male,"$2,500 to $2,999",lower secondary,8700
+2011,male,"$2,500 to $2,999",secondary,20500
+2011,male,"$2,500 to $2,999",post-secondary (non-tertiary),14300
+2011,male,"$2,500 to $2,999",diploma and professional qualification,20800
+2011,male,"$2,500 to $2,999",degree,14200
+2011,male,"$3,000 to $3,999",primary and below,7800
+2011,male,"$3,000 to $3,999",lower secondary,10600
+2011,male,"$3,000 to $3,999",secondary,28900
+2011,male,"$3,000 to $3,999",post-secondary (non-tertiary),18000
+2011,male,"$3,000 to $3,999",diploma and professional qualification,35400
+2011,male,"$3,000 to $3,999",degree,40900
+2011,male,"$4,000 to $4,999",primary and below,2600
+2011,male,"$4,000 to $4,999",lower secondary,3800
+2011,male,"$4,000 to $4,999",secondary,15400
+2011,male,"$4,000 to $4,999",post-secondary (non-tertiary),9400
+2011,male,"$4,000 to $4,999",diploma and professional qualification,22200
+2011,male,"$4,000 to $4,999",degree,34200
+2011,male,"$5,000 to $5,999",primary and below,1500
+2011,male,"$5,000 to $5,999",lower secondary,3100
+2011,male,"$5,000 to $5,999",secondary,9400
+2011,male,"$5,000 to $5,999",post-secondary (non-tertiary),5000
+2011,male,"$5,000 to $5,999",diploma and professional qualification,17000
+2011,male,"$5,000 to $5,999",degree,36800
+2011,male,"$6,000 to $6,999",primary and below,400
+2011,male,"$6,000 to $6,999",lower secondary,900
+2011,male,"$6,000 to $6,999",secondary,4900
+2011,male,"$6,000 to $6,999",post-secondary (non-tertiary),2700
+2011,male,"$6,000 to $6,999",diploma and professional qualification,8900
+2011,male,"$6,000 to $6,999",degree,27100
+2011,male,"$7,000 to $7,999",primary and below,500
+2011,male,"$7,000 to $7,999",lower secondary,700
+2011,male,"$7,000 to $7,999",secondary,2300
+2011,male,"$7,000 to $7,999",post-secondary (non-tertiary),1600
+2011,male,"$7,000 to $7,999",diploma and professional qualification,6200
+2011,male,"$7,000 to $7,999",degree,22100
+2011,male,"$8,000 to $8,999",primary and below,500
+2011,male,"$8,000 to $8,999",lower secondary,100
+2011,male,"$8,000 to $8,999",secondary,2000
+2011,male,"$8,000 to $8,999",post-secondary (non-tertiary),1200
+2011,male,"$8,000 to $8,999",diploma and professional qualification,4600
+2011,male,"$8,000 to $8,999",degree,19500
+2011,male,"$9,000 to $9,999",primary and below,200
+2011,male,"$9,000 to $9,999",lower secondary,400
+2011,male,"$9,000 to $9,999",secondary,1000
+2011,male,"$9,000 to $9,999",post-secondary (non-tertiary),800
+2011,male,"$9,000 to $9,999",diploma and professional qualification,2600
+2011,male,"$9,000 to $9,999",degree,13600
+2011,male,"$10,000 to $10,999",primary and below,300
+2011,male,"$10,000 to $10,999",lower secondary,300
+2011,male,"$10,000 to $10,999",secondary,1800
+2011,male,"$10,000 to $10,999",post-secondary (non-tertiary),600
+2011,male,"$10,000 to $10,999",diploma and professional qualification,3800
+2011,male,"$10,000 to $10,999",degree,15300
+2011,male,"$11,000 to $11,999",primary and below,0
+2011,male,"$11,000 to $11,999",lower secondary,0
+2011,male,"$11,000 to $11,999",secondary,500
+2011,male,"$11,000 to $11,999",post-secondary (non-tertiary),400
+2011,male,"$11,000 to $11,999",diploma and professional qualification,1300
+2011,male,"$11,000 to $11,999",degree,7800
+2011,male,"$12,000 and over",primary and below,600
+2011,male,"$12,000 and over",lower secondary,900
+2011,male,"$12,000 and over",secondary,3400
+2011,male,"$12,000 and over",post-secondary (non-tertiary),2600
+2011,male,"$12,000 and over",diploma and professional qualification,7000
+2011,male,"$12,000 and over",degree,52500
+2011,female,Under $500,primary and below,13900
+2011,female,Under $500,lower secondary,5400
+2011,female,Under $500,secondary,8600
+2011,female,Under $500,post-secondary (non-tertiary),4000
+2011,female,Under $500,diploma and professional qualification,2100
+2011,female,Under $500,degree,1100
+2011,female,$500 to $999,primary and below,48200
+2011,female,$500 to $999,lower secondary,20500
+2011,female,$500 to $999,secondary,25100
+2011,female,$500 to $999,post-secondary (non-tertiary),10600
+2011,female,$500 to $999,diploma and professional qualification,6300
+2011,female,$500 to $999,degree,4200
+2011,female,"$1,000 to $1,499",primary and below,26600
+2011,female,"$1,000 to $1,499",lower secondary,18100
+2011,female,"$1,000 to $1,499",secondary,32800
+2011,female,"$1,000 to $1,499",post-secondary (non-tertiary),15900
+2011,female,"$1,000 to $1,499",diploma and professional qualification,10800
+2011,female,"$1,000 to $1,499",degree,7700
+2011,female,"$1,500 to $1,999",primary and below,9400
+2011,female,"$1,500 to $1,999",lower secondary,11200
+2011,female,"$1,500 to $1,999",secondary,33600
+2011,female,"$1,500 to $1,999",post-secondary (non-tertiary),13700
+2011,female,"$1,500 to $1,999",diploma and professional qualification,23200
+2011,female,"$1,500 to $1,999",degree,8800
+2011,female,"$2,000 to $2,499",primary and below,3500
+2011,female,"$2,000 to $2,499",lower secondary,5700
+2011,female,"$2,000 to $2,499",secondary,27100
+2011,female,"$2,000 to $2,499",post-secondary (non-tertiary),10800
+2011,female,"$2,000 to $2,499",diploma and professional qualification,27700
+2011,female,"$2,000 to $2,499",degree,18200
+2011,female,"$2,500 to $2,999",primary and below,1600
+2011,female,"$2,500 to $2,999",lower secondary,2400
+2011,female,"$2,500 to $2,999",secondary,18000
+2011,female,"$2,500 to $2,999",post-secondary (non-tertiary),8500
+2011,female,"$2,500 to $2,999",diploma and professional qualification,19700
+2011,female,"$2,500 to $2,999",degree,22700
+2011,female,"$3,000 to $3,999",primary and below,1100
+2011,female,"$3,000 to $3,999",lower secondary,2600
+2011,female,"$3,000 to $3,999",secondary,24000
+2011,female,"$3,000 to $3,999",post-secondary (non-tertiary),9900
+2011,female,"$3,000 to $3,999",diploma and professional qualification,29600
+2011,female,"$3,000 to $3,999",degree,50800
+2011,female,"$4,000 to $4,999",primary and below,400
+2011,female,"$4,000 to $4,999",lower secondary,900
+2011,female,"$4,000 to $4,999",secondary,11900
+2011,female,"$4,000 to $4,999",post-secondary (non-tertiary),5900
+2011,female,"$4,000 to $4,999",diploma and professional qualification,18500
+2011,female,"$4,000 to $4,999",degree,36400
+2011,female,"$5,000 to $5,999",primary and below,300
+2011,female,"$5,000 to $5,999",lower secondary,600
+2011,female,"$5,000 to $5,999",secondary,5300
+2011,female,"$5,000 to $5,999",post-secondary (non-tertiary),2900
+2011,female,"$5,000 to $5,999",diploma and professional qualification,10300
+2011,female,"$5,000 to $5,999",degree,30200
+2011,female,"$6,000 to $6,999",primary and below,100
+2011,female,"$6,000 to $6,999",lower secondary,200
+2011,female,"$6,000 to $6,999",secondary,2400
+2011,female,"$6,000 to $6,999",post-secondary (non-tertiary),1600
+2011,female,"$6,000 to $6,999",diploma and professional qualification,4800
+2011,female,"$6,000 to $6,999",degree,17700
+2011,female,"$7,000 to $7,999",primary and below,100
+2011,female,"$7,000 to $7,999",lower secondary,100
+2011,female,"$7,000 to $7,999",secondary,1300
+2011,female,"$7,000 to $7,999",post-secondary (non-tertiary),800
+2011,female,"$7,000 to $7,999",diploma and professional qualification,3400
+2011,female,"$7,000 to $7,999",degree,13700
+2011,female,"$8,000 to $8,999",primary and below,100
+2011,female,"$8,000 to $8,999",lower secondary,0
+2011,female,"$8,000 to $8,999",secondary,800
+2011,female,"$8,000 to $8,999",post-secondary (non-tertiary),700
+2011,female,"$8,000 to $8,999",diploma and professional qualification,2000
+2011,female,"$8,000 to $8,999",degree,10900
+2011,female,"$9,000 to $9,999",primary and below,0
+2011,female,"$9,000 to $9,999",lower secondary,100
+2011,female,"$9,000 to $9,999",secondary,600
+2011,female,"$9,000 to $9,999",post-secondary (non-tertiary),100
+2011,female,"$9,000 to $9,999",diploma and professional qualification,1300
+2011,female,"$9,000 to $9,999",degree,7700
+2011,female,"$10,000 to $10,999",primary and below,100
+2011,female,"$10,000 to $10,999",lower secondary,100
+2011,female,"$10,000 to $10,999",secondary,700
+2011,female,"$10,000 to $10,999",post-secondary (non-tertiary),500
+2011,female,"$10,000 to $10,999",diploma and professional qualification,1300
+2011,female,"$10,000 to $10,999",degree,7100
+2011,female,"$11,000 to $11,999",primary and below,0
+2011,female,"$11,000 to $11,999",lower secondary,0
+2011,female,"$11,000 to $11,999",secondary,200
+2011,female,"$11,000 to $11,999",post-secondary (non-tertiary),100
+2011,female,"$11,000 to $11,999",diploma and professional qualification,300
+2011,female,"$11,000 to $11,999",degree,4400
+2011,female,"$12,000 and over",primary and below,100
+2011,female,"$12,000 and over",lower secondary,100
+2011,female,"$12,000 and over",secondary,1700
+2011,female,"$12,000 and over",post-secondary (non-tertiary),800
+2011,female,"$12,000 and over",diploma and professional qualification,2000
+2011,female,"$12,000 and over",degree,20500
+2012,male,Under $500,primary and below,4900
+2012,male,Under $500,lower secondary,2100
+2012,male,Under $500,secondary,4700
+2012,male,Under $500,post-secondary (non-tertiary),2700
+2012,male,Under $500,diploma and professional qualification,2000
+2012,male,Under $500,degree,800
+2012,male,$500 to $999,primary and below,29800
+2012,male,$500 to $999,lower secondary,12300
+2012,male,$500 to $999,secondary,14100
+2012,male,$500 to $999,post-secondary (non-tertiary),8000
+2012,male,$500 to $999,diploma and professional qualification,5000
+2012,male,$500 to $999,degree,1800
+2012,male,"$1,000 to $1,499",primary and below,37300
+2012,male,"$1,000 to $1,499",lower secondary,21300
+2012,male,"$1,000 to $1,499",secondary,25300
+2012,male,"$1,000 to $1,499",post-secondary (non-tertiary),15000
+2012,male,"$1,000 to $1,499",diploma and professional qualification,8100
+2012,male,"$1,000 to $1,499",degree,3800
+2012,male,"$1,500 to $1,999",primary and below,30400
+2012,male,"$1,500 to $1,999",lower secondary,22900
+2012,male,"$1,500 to $1,999",secondary,30400
+2012,male,"$1,500 to $1,999",post-secondary (non-tertiary),22100
+2012,male,"$1,500 to $1,999",diploma and professional qualification,13700
+2012,male,"$1,500 to $1,999",degree,5200
+2012,male,"$2,000 to $2,499",primary and below,16400
+2012,male,"$2,000 to $2,499",lower secondary,15500
+2012,male,"$2,000 to $2,499",secondary,28200
+2012,male,"$2,000 to $2,499",post-secondary (non-tertiary),20500
+2012,male,"$2,000 to $2,499",diploma and professional qualification,23300
+2012,male,"$2,000 to $2,499",degree,9400
+2012,male,"$2,500 to $2,999",primary and below,8400
+2012,male,"$2,500 to $2,999",lower secondary,7800
+2012,male,"$2,500 to $2,999",secondary,19200
+2012,male,"$2,500 to $2,999",post-secondary (non-tertiary),12400
+2012,male,"$2,500 to $2,999",diploma and professional qualification,20100
+2012,male,"$2,500 to $2,999",degree,14000
+2012,male,"$3,000 to $3,999",primary and below,8200
+2012,male,"$3,000 to $3,999",lower secondary,11200
+2012,male,"$3,000 to $3,999",secondary,28000
+2012,male,"$3,000 to $3,999",post-secondary (non-tertiary),20900
+2012,male,"$3,000 to $3,999",diploma and professional qualification,35500
+2012,male,"$3,000 to $3,999",degree,40500
+2012,male,"$4,000 to $4,999",primary and below,3200
+2012,male,"$4,000 to $4,999",lower secondary,4100
+2012,male,"$4,000 to $4,999",secondary,15700
+2012,male,"$4,000 to $4,999",post-secondary (non-tertiary),9400
+2012,male,"$4,000 to $4,999",diploma and professional qualification,24300
+2012,male,"$4,000 to $4,999",degree,42800
+2012,male,"$5,000 to $5,999",primary and below,2100
+2012,male,"$5,000 to $5,999",lower secondary,2900
+2012,male,"$5,000 to $5,999",secondary,10900
+2012,male,"$5,000 to $5,999",post-secondary (non-tertiary),6600
+2012,male,"$5,000 to $5,999",diploma and professional qualification,17200
+2012,male,"$5,000 to $5,999",degree,39300
+2012,male,"$6,000 to $6,999",primary and below,800
+2012,male,"$6,000 to $6,999",lower secondary,1000
+2012,male,"$6,000 to $6,999",secondary,5000
+2012,male,"$6,000 to $6,999",post-secondary (non-tertiary),3000
+2012,male,"$6,000 to $6,999",diploma and professional qualification,9700
+2012,male,"$6,000 to $6,999",degree,26000
+2012,male,"$7,000 to $7,999",primary and below,500
+2012,male,"$7,000 to $7,999",lower secondary,600
+2012,male,"$7,000 to $7,999",secondary,2300
+2012,male,"$7,000 to $7,999",post-secondary (non-tertiary),2400
+2012,male,"$7,000 to $7,999",diploma and professional qualification,6700
+2012,male,"$7,000 to $7,999",degree,23000
+2012,male,"$8,000 to $8,999",primary and below,300
+2012,male,"$8,000 to $8,999",lower secondary,600
+2012,male,"$8,000 to $8,999",secondary,2200
+2012,male,"$8,000 to $8,999",post-secondary (non-tertiary),1600
+2012,male,"$8,000 to $8,999",diploma and professional qualification,4800
+2012,male,"$8,000 to $8,999",degree,20300
+2012,male,"$9,000 to $9,999",primary and below,300
+2012,male,"$9,000 to $9,999",lower secondary,200
+2012,male,"$9,000 to $9,999",secondary,700
+2012,male,"$9,000 to $9,999",post-secondary (non-tertiary),1000
+2012,male,"$9,000 to $9,999",diploma and professional qualification,2500
+2012,male,"$9,000 to $9,999",degree,14600
+2012,male,"$10,000 to $10,999",primary and below,500
+2012,male,"$10,000 to $10,999",lower secondary,400
+2012,male,"$10,000 to $10,999",secondary,1900
+2012,male,"$10,000 to $10,999",post-secondary (non-tertiary),1400
+2012,male,"$10,000 to $10,999",diploma and professional qualification,3600
+2012,male,"$10,000 to $10,999",degree,15600
+2012,male,"$11,000 to $11,999",primary and below,0
+2012,male,"$11,000 to $11,999",lower secondary,200
+2012,male,"$11,000 to $11,999",secondary,500
+2012,male,"$11,000 to $11,999",post-secondary (non-tertiary),400
+2012,male,"$11,000 to $11,999",diploma and professional qualification,1500
+2012,male,"$11,000 to $11,999",degree,9100
+2012,male,"$12,000 and over",primary and below,800
+2012,male,"$12,000 and over",lower secondary,600
+2012,male,"$12,000 and over",secondary,4100
+2012,male,"$12,000 and over",post-secondary (non-tertiary),2900
+2012,male,"$12,000 and over",diploma and professional qualification,9300
+2012,male,"$12,000 and over",degree,60900
+2012,female,Under $500,primary and below,12500
+2012,female,Under $500,lower secondary,4900
+2012,female,Under $500,secondary,8500
+2012,female,Under $500,post-secondary (non-tertiary),3700
+2012,female,Under $500,diploma and professional qualification,2900
+2012,female,Under $500,degree,1600
+2012,female,$500 to $999,primary and below,47600
+2012,female,$500 to $999,lower secondary,20200
+2012,female,$500 to $999,secondary,23800
+2012,female,$500 to $999,post-secondary (non-tertiary),12200
+2012,female,$500 to $999,diploma and professional qualification,7000
+2012,female,$500 to $999,degree,4700
+2012,female,"$1,000 to $1,499",primary and below,25800
+2012,female,"$1,000 to $1,499",lower secondary,17000
+2012,female,"$1,000 to $1,499",secondary,30400
+2012,female,"$1,000 to $1,499",post-secondary (non-tertiary),15700
+2012,female,"$1,000 to $1,499",diploma and professional qualification,10900
+2012,female,"$1,000 to $1,499",degree,6000
+2012,female,"$1,500 to $1,999",primary and below,11100
+2012,female,"$1,500 to $1,999",lower secondary,10800
+2012,female,"$1,500 to $1,999",secondary,31000
+2012,female,"$1,500 to $1,999",post-secondary (non-tertiary),15600
+2012,female,"$1,500 to $1,999",diploma and professional qualification,21300
+2012,female,"$1,500 to $1,999",degree,9400
+2012,female,"$2,000 to $2,499",primary and below,3200
+2012,female,"$2,000 to $2,499",lower secondary,6200
+2012,female,"$2,000 to $2,499",secondary,27700
+2012,female,"$2,000 to $2,499",post-secondary (non-tertiary),11100
+2012,female,"$2,000 to $2,499",diploma and professional qualification,27400
+2012,female,"$2,000 to $2,499",degree,18300
+2012,female,"$2,500 to $2,999",primary and below,1300
+2012,female,"$2,500 to $2,999",lower secondary,2100
+2012,female,"$2,500 to $2,999",secondary,17700
+2012,female,"$2,500 to $2,999",post-secondary (non-tertiary),7000
+2012,female,"$2,500 to $2,999",diploma and professional qualification,21700
+2012,female,"$2,500 to $2,999",degree,20400
+2012,female,"$3,000 to $3,999",primary and below,1500
+2012,female,"$3,000 to $3,999",lower secondary,3100
+2012,female,"$3,000 to $3,999",secondary,25800
+2012,female,"$3,000 to $3,999",post-secondary (non-tertiary),11500
+2012,female,"$3,000 to $3,999",diploma and professional qualification,33100
+2012,female,"$3,000 to $3,999",degree,50000
+2012,female,"$4,000 to $4,999",primary and below,500
+2012,female,"$4,000 to $4,999",lower secondary,800
+2012,female,"$4,000 to $4,999",secondary,10800
+2012,female,"$4,000 to $4,999",post-secondary (non-tertiary),6200
+2012,female,"$4,000 to $4,999",diploma and professional qualification,18200
+2012,female,"$4,000 to $4,999",degree,40700
+2012,female,"$5,000 to $5,999",primary and below,400
+2012,female,"$5,000 to $5,999",lower secondary,1000
+2012,female,"$5,000 to $5,999",secondary,6300
+2012,female,"$5,000 to $5,999",post-secondary (non-tertiary),3900
+2012,female,"$5,000 to $5,999",diploma and professional qualification,12300
+2012,female,"$5,000 to $5,999",degree,33400
+2012,female,"$6,000 to $6,999",primary and below,100
+2012,female,"$6,000 to $6,999",lower secondary,200
+2012,female,"$6,000 to $6,999",secondary,2500
+2012,female,"$6,000 to $6,999",post-secondary (non-tertiary),1700
+2012,female,"$6,000 to $6,999",diploma and professional qualification,6300
+2012,female,"$6,000 to $6,999",degree,20600
+2012,female,"$7,000 to $7,999",primary and below,100
+2012,female,"$7,000 to $7,999",lower secondary,200
+2012,female,"$7,000 to $7,999",secondary,1600
+2012,female,"$7,000 to $7,999",post-secondary (non-tertiary),1100
+2012,female,"$7,000 to $7,999",diploma and professional qualification,4100
+2012,female,"$7,000 to $7,999",degree,15900
+2012,female,"$8,000 to $8,999",primary and below,100
+2012,female,"$8,000 to $8,999",lower secondary,100
+2012,female,"$8,000 to $8,999",secondary,1100
+2012,female,"$8,000 to $8,999",post-secondary (non-tertiary),600
+2012,female,"$8,000 to $8,999",diploma and professional qualification,2300
+2012,female,"$8,000 to $8,999",degree,12300
+2012,female,"$9,000 to $9,999",primary and below,0
+2012,female,"$9,000 to $9,999",lower secondary,100
+2012,female,"$9,000 to $9,999",secondary,700
+2012,female,"$9,000 to $9,999",post-secondary (non-tertiary),200
+2012,female,"$9,000 to $9,999",diploma and professional qualification,1300
+2012,female,"$9,000 to $9,999",degree,7400
+2012,female,"$10,000 to $10,999",primary and below,0
+2012,female,"$10,000 to $10,999",lower secondary,100
+2012,female,"$10,000 to $10,999",secondary,1000
+2012,female,"$10,000 to $10,999",post-secondary (non-tertiary),600
+2012,female,"$10,000 to $10,999",diploma and professional qualification,1500
+2012,female,"$10,000 to $10,999",degree,6800
+2012,female,"$11,000 to $11,999",primary and below,0
+2012,female,"$11,000 to $11,999",lower secondary,0
+2012,female,"$11,000 to $11,999",secondary,100
+2012,female,"$11,000 to $11,999",post-secondary (non-tertiary),300
+2012,female,"$11,000 to $11,999",diploma and professional qualification,700
+2012,female,"$11,000 to $11,999",degree,4700
+2012,female,"$12,000 and over",primary and below,200
+2012,female,"$12,000 and over",lower secondary,200
+2012,female,"$12,000 and over",secondary,1400
+2012,female,"$12,000 and over",post-secondary (non-tertiary),1000
+2012,female,"$12,000 and over",diploma and professional qualification,2400
+2012,female,"$12,000 and over",degree,22300
+2013,male,Under $500,primary and below,3500
+2013,male,Under $500,lower secondary,1200
+2013,male,Under $500,secondary,4000
+2013,male,Under $500,post-secondary (non-tertiary),2800
+2013,male,Under $500,diploma and professional qualification,1800
+2013,male,Under $500,degree,800
+2013,male,$500 to $999,primary and below,26800
+2013,male,$500 to $999,lower secondary,9200
+2013,male,$500 to $999,secondary,9400
+2013,male,$500 to $999,post-secondary (non-tertiary),6700
+2013,male,$500 to $999,diploma and professional qualification,4700
+2013,male,$500 to $999,degree,2700
+2013,male,"$1,000 to $1,499",primary and below,35700
+2013,male,"$1,000 to $1,499",lower secondary,20400
+2013,male,"$1,000 to $1,499",secondary,21500
+2013,male,"$1,000 to $1,499",post-secondary (non-tertiary),14700
+2013,male,"$1,000 to $1,499",diploma and professional qualification,6900
+2013,male,"$1,000 to $1,499",degree,3600
+2013,male,"$1,500 to $1,999",primary and below,28000
+2013,male,"$1,500 to $1,999",lower secondary,21600
+2013,male,"$1,500 to $1,999",secondary,32500
+2013,male,"$1,500 to $1,999",post-secondary (non-tertiary),19000
+2013,male,"$1,500 to $1,999",diploma and professional qualification,11500
+2013,male,"$1,500 to $1,999",degree,4900
+2013,male,"$2,000 to $2,499",primary and below,16100
+2013,male,"$2,000 to $2,499",lower secondary,15700
+2013,male,"$2,000 to $2,499",secondary,28000
+2013,male,"$2,000 to $2,499",post-secondary (non-tertiary),20500
+2013,male,"$2,000 to $2,499",diploma and professional qualification,18600
+2013,male,"$2,000 to $2,499",degree,11100
+2013,male,"$2,500 to $2,999",primary and below,10100
+2013,male,"$2,500 to $2,999",lower secondary,9800
+2013,male,"$2,500 to $2,999",secondary,20800
+2013,male,"$2,500 to $2,999",post-secondary (non-tertiary),13700
+2013,male,"$2,500 to $2,999",diploma and professional qualification,18600
+2013,male,"$2,500 to $2,999",degree,13200
+2013,male,"$3,000 to $3,999",primary and below,9100
+2013,male,"$3,000 to $3,999",lower secondary,11000
+2013,male,"$3,000 to $3,999",secondary,28800
+2013,male,"$3,000 to $3,999",post-secondary (non-tertiary),19700
+2013,male,"$3,000 to $3,999",diploma and professional qualification,38400
+2013,male,"$3,000 to $3,999",degree,39400
+2013,male,"$4,000 to $4,999",primary and below,3500
+2013,male,"$4,000 to $4,999",lower secondary,4600
+2013,male,"$4,000 to $4,999",secondary,16800
+2013,male,"$4,000 to $4,999",post-secondary (non-tertiary),10900
+2013,male,"$4,000 to $4,999",diploma and professional qualification,27200
+2013,male,"$4,000 to $4,999",degree,39700
+2013,male,"$5,000 to $5,999",primary and below,1700
+2013,male,"$5,000 to $5,999",lower secondary,2800
+2013,male,"$5,000 to $5,999",secondary,11300
+2013,male,"$5,000 to $5,999",post-secondary (non-tertiary),6800
+2013,male,"$5,000 to $5,999",diploma and professional qualification,19500
+2013,male,"$5,000 to $5,999",degree,41400
+2013,male,"$6,000 to $6,999",primary and below,900
+2013,male,"$6,000 to $6,999",lower secondary,1500
+2013,male,"$6,000 to $6,999",secondary,4800
+2013,male,"$6,000 to $6,999",post-secondary (non-tertiary),2700
+2013,male,"$6,000 to $6,999",diploma and professional qualification,9900
+2013,male,"$6,000 to $6,999",degree,30900
+2013,male,"$7,000 to $7,999",primary and below,300
+2013,male,"$7,000 to $7,999",lower secondary,1000
+2013,male,"$7,000 to $7,999",secondary,2400
+2013,male,"$7,000 to $7,999",post-secondary (non-tertiary),1900
+2013,male,"$7,000 to $7,999",diploma and professional qualification,6000
+2013,male,"$7,000 to $7,999",degree,25300
+2013,male,"$8,000 to $8,999",primary and below,600
+2013,male,"$8,000 to $8,999",lower secondary,500
+2013,male,"$8,000 to $8,999",secondary,2000
+2013,male,"$8,000 to $8,999",post-secondary (non-tertiary),1100
+2013,male,"$8,000 to $8,999",diploma and professional qualification,6000
+2013,male,"$8,000 to $8,999",degree,23000
+2013,male,"$9,000 to $9,999",primary and below,0
+2013,male,"$9,000 to $9,999",lower secondary,300
+2013,male,"$9,000 to $9,999",secondary,1500
+2013,male,"$9,000 to $9,999",post-secondary (non-tertiary),700
+2013,male,"$9,000 to $9,999",diploma and professional qualification,2900
+2013,male,"$9,000 to $9,999",degree,15600
+2013,male,"$10,000 to $10,999",primary and below,600
+2013,male,"$10,000 to $10,999",lower secondary,400
+2013,male,"$10,000 to $10,999",secondary,2000
+2013,male,"$10,000 to $10,999",post-secondary (non-tertiary),1000
+2013,male,"$10,000 to $10,999",diploma and professional qualification,4200
+2013,male,"$10,000 to $10,999",degree,20100
+2013,male,"$11,000 to $11,999",primary and below,100
+2013,male,"$11,000 to $11,999",lower secondary,100
+2013,male,"$11,000 to $11,999",secondary,700
+2013,male,"$11,000 to $11,999",post-secondary (non-tertiary),100
+2013,male,"$11,000 to $11,999",diploma and professional qualification,1500
+2013,male,"$11,000 to $11,999",degree,10900
+2013,male,"$12,000 and over",primary and below,800
+2013,male,"$12,000 and over",lower secondary,900
+2013,male,"$12,000 and over",secondary,3300
+2013,male,"$12,000 and over",post-secondary (non-tertiary),3400
+2013,male,"$12,000 and over",diploma and professional qualification,8700
+2013,male,"$12,000 and over",degree,67900
+2013,female,Under $500,primary and below,10800
+2013,female,Under $500,lower secondary,3400
+2013,female,Under $500,secondary,7900
+2013,female,Under $500,post-secondary (non-tertiary),3800
+2013,female,Under $500,diploma and professional qualification,2300
+2013,female,Under $500,degree,2000
+2013,female,$500 to $999,primary and below,43800
+2013,female,$500 to $999,lower secondary,16100
+2013,female,$500 to $999,secondary,21200
+2013,female,$500 to $999,post-secondary (non-tertiary),10000
+2013,female,$500 to $999,diploma and professional qualification,6900
+2013,female,$500 to $999,degree,5300
+2013,female,"$1,000 to $1,499",primary and below,29700
+2013,female,"$1,000 to $1,499",lower secondary,17300
+2013,female,"$1,000 to $1,499",secondary,28200
+2013,female,"$1,000 to $1,499",post-secondary (non-tertiary),15300
+2013,female,"$1,000 to $1,499",diploma and professional qualification,9600
+2013,female,"$1,000 to $1,499",degree,6800
+2013,female,"$1,500 to $1,999",primary and below,11000
+2013,female,"$1,500 to $1,999",lower secondary,10400
+2013,female,"$1,500 to $1,999",secondary,29400
+2013,female,"$1,500 to $1,999",post-secondary (non-tertiary),13800
+2013,female,"$1,500 to $1,999",diploma and professional qualification,20100
+2013,female,"$1,500 to $1,999",degree,8900
+2013,female,"$2,000 to $2,499",primary and below,4200
+2013,female,"$2,000 to $2,499",lower secondary,6500
+2013,female,"$2,000 to $2,499",secondary,26900
+2013,female,"$2,000 to $2,499",post-secondary (non-tertiary),11800
+2013,female,"$2,000 to $2,499",diploma and professional qualification,26500
+2013,female,"$2,000 to $2,499",degree,17800
+2013,female,"$2,500 to $2,999",primary and below,1400
+2013,female,"$2,500 to $2,999",lower secondary,2500
+2013,female,"$2,500 to $2,999",secondary,18400
+2013,female,"$2,500 to $2,999",post-secondary (non-tertiary),7400
+2013,female,"$2,500 to $2,999",diploma and professional qualification,19200
+2013,female,"$2,500 to $2,999",degree,21600
+2013,female,"$3,000 to $3,999",primary and below,1100
+2013,female,"$3,000 to $3,999",lower secondary,3800
+2013,female,"$3,000 to $3,999",secondary,28300
+2013,female,"$3,000 to $3,999",post-secondary (non-tertiary),11000
+2013,female,"$3,000 to $3,999",diploma and professional qualification,35000
+2013,female,"$3,000 to $3,999",degree,52000
+2013,female,"$4,000 to $4,999",primary and below,400
+2013,female,"$4,000 to $4,999",lower secondary,1200
+2013,female,"$4,000 to $4,999",secondary,13400
+2013,female,"$4,000 to $4,999",post-secondary (non-tertiary),6200
+2013,female,"$4,000 to $4,999",diploma and professional qualification,20200
+2013,female,"$4,000 to $4,999",degree,44400
+2013,female,"$5,000 to $5,999",primary and below,500
+2013,female,"$5,000 to $5,999",lower secondary,600
+2013,female,"$5,000 to $5,999",secondary,6500
+2013,female,"$5,000 to $5,999",post-secondary (non-tertiary),4400
+2013,female,"$5,000 to $5,999",diploma and professional qualification,12800
+2013,female,"$5,000 to $5,999",degree,36700
+2013,female,"$6,000 to $6,999",primary and below,200
+2013,female,"$6,000 to $6,999",lower secondary,300
+2013,female,"$6,000 to $6,999",secondary,2600
+2013,female,"$6,000 to $6,999",post-secondary (non-tertiary),2200
+2013,female,"$6,000 to $6,999",diploma and professional qualification,6400
+2013,female,"$6,000 to $6,999",degree,23100
+2013,female,"$7,000 to $7,999",primary and below,200
+2013,female,"$7,000 to $7,999",lower secondary,0
+2013,female,"$7,000 to $7,999",secondary,1300
+2013,female,"$7,000 to $7,999",post-secondary (non-tertiary),1000
+2013,female,"$7,000 to $7,999",diploma and professional qualification,3800
+2013,female,"$7,000 to $7,999",degree,17100
+2013,female,"$8,000 to $8,999",primary and below,100
+2013,female,"$8,000 to $8,999",lower secondary,100
+2013,female,"$8,000 to $8,999",secondary,1100
+2013,female,"$8,000 to $8,999",post-secondary (non-tertiary),800
+2013,female,"$8,000 to $8,999",diploma and professional qualification,2500
+2013,female,"$8,000 to $8,999",degree,14300
+2013,female,"$9,000 to $9,999",primary and below,100
+2013,female,"$9,000 to $9,999",lower secondary,0
+2013,female,"$9,000 to $9,999",secondary,700
+2013,female,"$9,000 to $9,999",post-secondary (non-tertiary),400
+2013,female,"$9,000 to $9,999",diploma and professional qualification,1500
+2013,female,"$9,000 to $9,999",degree,9400
+2013,female,"$10,000 to $10,999",primary and below,200
+2013,female,"$10,000 to $10,999",lower secondary,100
+2013,female,"$10,000 to $10,999",secondary,700
+2013,female,"$10,000 to $10,999",post-secondary (non-tertiary),400
+2013,female,"$10,000 to $10,999",diploma and professional qualification,1100
+2013,female,"$10,000 to $10,999",degree,9800
+2013,female,"$11,000 to $11,999",primary and below,0
+2013,female,"$11,000 to $11,999",lower secondary,0
+2013,female,"$11,000 to $11,999",secondary,400
+2013,female,"$11,000 to $11,999",post-secondary (non-tertiary),200
+2013,female,"$11,000 to $11,999",diploma and professional qualification,700
+2013,female,"$11,000 to $11,999",degree,4900
+2013,female,"$12,000 and over",primary and below,100
+2013,female,"$12,000 and over",lower secondary,300
+2013,female,"$12,000 and over",secondary,1000
+2013,female,"$12,000 and over",post-secondary (non-tertiary),700
+2013,female,"$12,000 and over",diploma and professional qualification,2800
+2013,female,"$12,000 and over",degree,24400
+2014,male,Under $500,primary and below,4300
+2014,male,Under $500,lower secondary,2100
+2014,male,Under $500,secondary,4600
+2014,male,Under $500,post-secondary (non-tertiary),2300
+2014,male,Under $500,diploma and professional qualification,2400
+2014,male,Under $500,degree,1000
+2014,male,$500 to $999,primary and below,18000
+2014,male,$500 to $999,lower secondary,7300
+2014,male,$500 to $999,secondary,8800
+2014,male,$500 to $999,post-secondary (non-tertiary),5600
+2014,male,$500 to $999,diploma and professional qualification,5300
+2014,male,$500 to $999,degree,2200
+2014,male,"$1,000 to $1,499",primary and below,42500
+2014,male,"$1,000 to $1,499",lower secondary,18900
+2014,male,"$1,000 to $1,499",secondary,21600
+2014,male,"$1,000 to $1,499",post-secondary (non-tertiary),13400
+2014,male,"$1,000 to $1,499",diploma and professional qualification,8300
+2014,male,"$1,000 to $1,499",degree,4700
+2014,male,"$1,500 to $1,999",primary and below,28700
+2014,male,"$1,500 to $1,999",lower secondary,21200
+2014,male,"$1,500 to $1,999",secondary,28500
+2014,male,"$1,500 to $1,999",post-secondary (non-tertiary),22300
+2014,male,"$1,500 to $1,999",diploma and professional qualification,11600
+2014,male,"$1,500 to $1,999",degree,4600
+2014,male,"$2,000 to $2,499",primary and below,18100
+2014,male,"$2,000 to $2,499",lower secondary,15800
+2014,male,"$2,000 to $2,499",secondary,25600
+2014,male,"$2,000 to $2,499",post-secondary (non-tertiary),16800
+2014,male,"$2,000 to $2,499",diploma and professional qualification,21600
+2014,male,"$2,000 to $2,499",degree,9700
+2014,male,"$2,500 to $2,999",primary and below,8300
+2014,male,"$2,500 to $2,999",lower secondary,8800
+2014,male,"$2,500 to $2,999",secondary,21200
+2014,male,"$2,500 to $2,999",post-secondary (non-tertiary),16400
+2014,male,"$2,500 to $2,999",diploma and professional qualification,19800
+2014,male,"$2,500 to $2,999",degree,12700
+2014,male,"$3,000 to $3,999",primary and below,9200
+2014,male,"$3,000 to $3,999",lower secondary,10600
+2014,male,"$3,000 to $3,999",secondary,28700
+2014,male,"$3,000 to $3,999",post-secondary (non-tertiary),21100
+2014,male,"$3,000 to $3,999",diploma and professional qualification,37900
+2014,male,"$3,000 to $3,999",degree,41500
+2014,male,"$4,000 to $4,999",primary and below,3300
+2014,male,"$4,000 to $4,999",lower secondary,4900
+2014,male,"$4,000 to $4,999",secondary,16500
+2014,male,"$4,000 to $4,999",post-secondary (non-tertiary),10900
+2014,male,"$4,000 to $4,999",diploma and professional qualification,28600
+2014,male,"$4,000 to $4,999",degree,38600
+2014,male,"$5,000 to $5,999",primary and below,1800
+2014,male,"$5,000 to $5,999",lower secondary,3000
+2014,male,"$5,000 to $5,999",secondary,11400
+2014,male,"$5,000 to $5,999",post-secondary (non-tertiary),7100
+2014,male,"$5,000 to $5,999",diploma and professional qualification,19800
+2014,male,"$5,000 to $5,999",degree,40800
+2014,male,"$6,000 to $6,999",primary and below,1100
+2014,male,"$6,000 to $6,999",lower secondary,800
+2014,male,"$6,000 to $6,999",secondary,4600
+2014,male,"$6,000 to $6,999",post-secondary (non-tertiary),2000
+2014,male,"$6,000 to $6,999",diploma and professional qualification,11200
+2014,male,"$6,000 to $6,999",degree,30400
+2014,male,"$7,000 to $7,999",primary and below,400
+2014,male,"$7,000 to $7,999",lower secondary,900
+2014,male,"$7,000 to $7,999",secondary,3100
+2014,male,"$7,000 to $7,999",post-secondary (non-tertiary),2000
+2014,male,"$7,000 to $7,999",diploma and professional qualification,8700
+2014,male,"$7,000 to $7,999",degree,26300
+2014,male,"$8,000 to $8,999",primary and below,400
+2014,male,"$8,000 to $8,999",lower secondary,600
+2014,male,"$8,000 to $8,999",secondary,2700
+2014,male,"$8,000 to $8,999",post-secondary (non-tertiary),1200
+2014,male,"$8,000 to $8,999",diploma and professional qualification,5200
+2014,male,"$8,000 to $8,999",degree,23500
+2014,male,"$9,000 to $9,999",primary and below,200
+2014,male,"$9,000 to $9,999",lower secondary,300
+2014,male,"$9,000 to $9,999",secondary,1200
+2014,male,"$9,000 to $9,999",post-secondary (non-tertiary),1100
+2014,male,"$9,000 to $9,999",diploma and professional qualification,2900
+2014,male,"$9,000 to $9,999",degree,19100
+2014,male,"$10,000 to $10,999",primary and below,700
+2014,male,"$10,000 to $10,999",lower secondary,900
+2014,male,"$10,000 to $10,999",secondary,1600
+2014,male,"$10,000 to $10,999",post-secondary (non-tertiary),1100
+2014,male,"$10,000 to $10,999",diploma and professional qualification,4600
+2014,male,"$10,000 to $10,999",degree,19800
+2014,male,"$11,000 to $11,999",primary and below,200
+2014,male,"$11,000 to $11,999",lower secondary,100
+2014,male,"$11,000 to $11,999",secondary,600
+2014,male,"$11,000 to $11,999",post-secondary (non-tertiary),600
+2014,male,"$11,000 to $11,999",diploma and professional qualification,2800
+2014,male,"$11,000 to $11,999",degree,10600
+2014,male,"$12,000 and over",primary and below,800
+2014,male,"$12,000 and over",lower secondary,700
+2014,male,"$12,000 and over",secondary,3500
+2014,male,"$12,000 and over",post-secondary (non-tertiary),3000
+2014,male,"$12,000 and over",diploma and professional qualification,9300
+2014,male,"$12,000 and over",degree,77600
+2014,female,Under $500,primary and below,9600
+2014,female,Under $500,lower secondary,4200
+2014,female,Under $500,secondary,6700
+2014,female,Under $500,post-secondary (non-tertiary),4100
+2014,female,Under $500,diploma and professional qualification,3300
+2014,female,Under $500,degree,2200
+2014,female,$500 to $999,primary and below,32300
+2014,female,$500 to $999,lower secondary,12800
+2014,female,$500 to $999,secondary,19800
+2014,female,$500 to $999,post-secondary (non-tertiary),10300
+2014,female,$500 to $999,diploma and professional qualification,7300
+2014,female,$500 to $999,degree,3700
+2014,female,"$1,000 to $1,499",primary and below,39900
+2014,female,"$1,000 to $1,499",lower secondary,19600
+2014,female,"$1,000 to $1,499",secondary,30900
+2014,female,"$1,000 to $1,499",post-secondary (non-tertiary),16100
+2014,female,"$1,000 to $1,499",diploma and professional qualification,12100
+2014,female,"$1,000 to $1,499",degree,7800
+2014,female,"$1,500 to $1,999",primary and below,12800
+2014,female,"$1,500 to $1,999",lower secondary,11200
+2014,female,"$1,500 to $1,999",secondary,28000
+2014,female,"$1,500 to $1,999",post-secondary (non-tertiary),15300
+2014,female,"$1,500 to $1,999",diploma and professional qualification,19800
+2014,female,"$1,500 to $1,999",degree,7700
+2014,female,"$2,000 to $2,499",primary and below,4400
+2014,female,"$2,000 to $2,499",lower secondary,6900
+2014,female,"$2,000 to $2,499",secondary,27000
+2014,female,"$2,000 to $2,499",post-secondary (non-tertiary),10500
+2014,female,"$2,000 to $2,499",diploma and professional qualification,28000
+2014,female,"$2,000 to $2,499",degree,16800
+2014,female,"$2,500 to $2,999",primary and below,1600
+2014,female,"$2,500 to $2,999",lower secondary,3000
+2014,female,"$2,500 to $2,999",secondary,17800
+2014,female,"$2,500 to $2,999",post-secondary (non-tertiary),7000
+2014,female,"$2,500 to $2,999",diploma and professional qualification,23100
+2014,female,"$2,500 to $2,999",degree,22000
+2014,female,"$3,000 to $3,999",primary and below,1900
+2014,female,"$3,000 to $3,999",lower secondary,3900
+2014,female,"$3,000 to $3,999",secondary,27800
+2014,female,"$3,000 to $3,999",post-secondary (non-tertiary),12800
+2014,female,"$3,000 to $3,999",diploma and professional qualification,36100
+2014,female,"$3,000 to $3,999",degree,54600
+2014,female,"$4,000 to $4,999",primary and below,300
+2014,female,"$4,000 to $4,999",lower secondary,1100
+2014,female,"$4,000 to $4,999",secondary,12400
+2014,female,"$4,000 to $4,999",post-secondary (non-tertiary),6100
+2014,female,"$4,000 to $4,999",diploma and professional qualification,21500
+2014,female,"$4,000 to $4,999",degree,41500
+2014,female,"$5,000 to $5,999",primary and below,500
+2014,female,"$5,000 to $5,999",lower secondary,800
+2014,female,"$5,000 to $5,999",secondary,6300
+2014,female,"$5,000 to $5,999",post-secondary (non-tertiary),3700
+2014,female,"$5,000 to $5,999",diploma and professional qualification,15200
+2014,female,"$5,000 to $5,999",degree,36700
+2014,female,"$6,000 to $6,999",primary and below,300
+2014,female,"$6,000 to $6,999",lower secondary,300
+2014,female,"$6,000 to $6,999",secondary,3100
+2014,female,"$6,000 to $6,999",post-secondary (non-tertiary),1800
+2014,female,"$6,000 to $6,999",diploma and professional qualification,6900
+2014,female,"$6,000 to $6,999",degree,22900
+2014,female,"$7,000 to $7,999",primary and below,100
+2014,female,"$7,000 to $7,999",lower secondary,100
+2014,female,"$7,000 to $7,999",secondary,1900
+2014,female,"$7,000 to $7,999",post-secondary (non-tertiary),1400
+2014,female,"$7,000 to $7,999",diploma and professional qualification,4600
+2014,female,"$7,000 to $7,999",degree,18400
+2014,female,"$8,000 to $8,999",primary and below,100
+2014,female,"$8,000 to $8,999",lower secondary,100
+2014,female,"$8,000 to $8,999",secondary,1100
+2014,female,"$8,000 to $8,999",post-secondary (non-tertiary),1000
+2014,female,"$8,000 to $8,999",diploma and professional qualification,2300
+2014,female,"$8,000 to $8,999",degree,15800
+2014,female,"$9,000 to $9,999",primary and below,100
+2014,female,"$9,000 to $9,999",lower secondary,200
+2014,female,"$9,000 to $9,999",secondary,600
+2014,female,"$9,000 to $9,999",post-secondary (non-tertiary),500
+2014,female,"$9,000 to $9,999",diploma and professional qualification,1600
+2014,female,"$9,000 to $9,999",degree,10300
+2014,female,"$10,000 to $10,999",primary and below,0
+2014,female,"$10,000 to $10,999",lower secondary,100
+2014,female,"$10,000 to $10,999",secondary,800
+2014,female,"$10,000 to $10,999",post-secondary (non-tertiary),500
+2014,female,"$10,000 to $10,999",diploma and professional qualification,2100
+2014,female,"$10,000 to $10,999",degree,10900
+2014,female,"$11,000 to $11,999",primary and below,0
+2014,female,"$11,000 to $11,999",lower secondary,100
+2014,female,"$11,000 to $11,999",secondary,200
+2014,female,"$11,000 to $11,999",post-secondary (non-tertiary),0
+2014,female,"$11,000 to $11,999",diploma and professional qualification,700
+2014,female,"$11,000 to $11,999",degree,5700
+2014,female,"$12,000 and over",primary and below,100
+2014,female,"$12,000 and over",lower secondary,100
+2014,female,"$12,000 and over",secondary,1100
+2014,female,"$12,000 and over",post-secondary (non-tertiary),1000
+2014,female,"$12,000 and over",diploma and professional qualification,3200
+2014,female,"$12,000 and over",degree,31600
+2015,male,Under $500,primary and below,3900
+2015,male,Under $500,lower secondary,1200
+2015,male,Under $500,secondary,3900
+2015,male,Under $500,post-secondary (non-tertiary),2800
+2015,male,Under $500,diploma and professional qualification,2500
+2015,male,Under $500,degree,1200
+2015,male,$500 to $999,primary and below,15500
+2015,male,$500 to $999,lower secondary,6200
+2015,male,$500 to $999,secondary,8500
+2015,male,$500 to $999,post-secondary (non-tertiary),6800
+2015,male,$500 to $999,diploma and professional qualification,4200
+2015,male,$500 to $999,degree,2200
+2015,male,"$1,000 to $1,499",primary and below,39300
+2015,male,"$1,000 to $1,499",lower secondary,18300
+2015,male,"$1,000 to $1,499",secondary,22100
+2015,male,"$1,000 to $1,499",post-secondary (non-tertiary),15000
+2015,male,"$1,000 to $1,499",diploma and professional qualification,8100
+2015,male,"$1,000 to $1,499",degree,4600
+2015,male,"$1,500 to $1,999",primary and below,29000
+2015,male,"$1,500 to $1,999",lower secondary,18500
+2015,male,"$1,500 to $1,999",secondary,28100
+2015,male,"$1,500 to $1,999",post-secondary (non-tertiary),19600
+2015,male,"$1,500 to $1,999",diploma and professional qualification,10300
+2015,male,"$1,500 to $1,999",degree,4100
+2015,male,"$2,000 to $2,499",primary and below,19000
+2015,male,"$2,000 to $2,499",lower secondary,14900
+2015,male,"$2,000 to $2,499",secondary,27600
+2015,male,"$2,000 to $2,499",post-secondary (non-tertiary),19900
+2015,male,"$2,000 to $2,499",diploma and professional qualification,19000
+2015,male,"$2,000 to $2,499",degree,10600
+2015,male,"$2,500 to $2,999",primary and below,9100
+2015,male,"$2,500 to $2,999",lower secondary,8900
+2015,male,"$2,500 to $2,999",secondary,20800
+2015,male,"$2,500 to $2,999",post-secondary (non-tertiary),15200
+2015,male,"$2,500 to $2,999",diploma and professional qualification,20200
+2015,male,"$2,500 to $2,999",degree,12600
+2015,male,"$3,000 to $3,999",primary and below,10200
+2015,male,"$3,000 to $3,999",lower secondary,10900
+2015,male,"$3,000 to $3,999",secondary,31200
+2015,male,"$3,000 to $3,999",post-secondary (non-tertiary),23500
+2015,male,"$3,000 to $3,999",diploma and professional qualification,38200
+2015,male,"$3,000 to $3,999",degree,39900
+2015,male,"$4,000 to $4,999",primary and below,4000
+2015,male,"$4,000 to $4,999",lower secondary,3900
+2015,male,"$4,000 to $4,999",secondary,16700
+2015,male,"$4,000 to $4,999",post-secondary (non-tertiary),10900
+2015,male,"$4,000 to $4,999",diploma and professional qualification,28800
+2015,male,"$4,000 to $4,999",degree,38000
+2015,male,"$5,000 to $5,999",primary and below,2400
+2015,male,"$5,000 to $5,999",lower secondary,2700
+2015,male,"$5,000 to $5,999",secondary,11400
+2015,male,"$5,000 to $5,999",post-secondary (non-tertiary),7500
+2015,male,"$5,000 to $5,999",diploma and professional qualification,23500
+2015,male,"$5,000 to $5,999",degree,41300
+2015,male,"$6,000 to $6,999",primary and below,900
+2015,male,"$6,000 to $6,999",lower secondary,1400
+2015,male,"$6,000 to $6,999",secondary,7000
+2015,male,"$6,000 to $6,999",post-secondary (non-tertiary),4200
+2015,male,"$6,000 to $6,999",diploma and professional qualification,11900
+2015,male,"$6,000 to $6,999",degree,30300
+2015,male,"$7,000 to $7,999",primary and below,500
+2015,male,"$7,000 to $7,999",lower secondary,700
+2015,male,"$7,000 to $7,999",secondary,3900
+2015,male,"$7,000 to $7,999",post-secondary (non-tertiary),2100
+2015,male,"$7,000 to $7,999",diploma and professional qualification,8400
+2015,male,"$7,000 to $7,999",degree,27600
+2015,male,"$8,000 to $8,999",primary and below,800
+2015,male,"$8,000 to $8,999",lower secondary,700
+2015,male,"$8,000 to $8,999",secondary,2400
+2015,male,"$8,000 to $8,999",post-secondary (non-tertiary),1100
+2015,male,"$8,000 to $8,999",diploma and professional qualification,4500
+2015,male,"$8,000 to $8,999",degree,26600
+2015,male,"$9,000 to $9,999",primary and below,100
+2015,male,"$9,000 to $9,999",lower secondary,500
+2015,male,"$9,000 to $9,999",secondary,1700
+2015,male,"$9,000 to $9,999",post-secondary (non-tertiary),1300
+2015,male,"$9,000 to $9,999",diploma and professional qualification,3900
+2015,male,"$9,000 to $9,999",degree,18500
+2015,male,"$10,000 to $10,999",primary and below,500
+2015,male,"$10,000 to $10,999",lower secondary,700
+2015,male,"$10,000 to $10,999",secondary,1700
+2015,male,"$10,000 to $10,999",post-secondary (non-tertiary),1200
+2015,male,"$10,000 to $10,999",diploma and professional qualification,3500
+2015,male,"$10,000 to $10,999",degree,18100
+2015,male,"$11,000 to $11,999",primary and below,0
+2015,male,"$11,000 to $11,999",lower secondary,200
+2015,male,"$11,000 to $11,999",secondary,800
+2015,male,"$11,000 to $11,999",post-secondary (non-tertiary),400
+2015,male,"$11,000 to $11,999",diploma and professional qualification,1900
+2015,male,"$11,000 to $11,999",degree,12100
+2015,male,"$12,000 and over",primary and below,400
+2015,male,"$12,000 and over",lower secondary,1000
+2015,male,"$12,000 and over",secondary,4800
+2015,male,"$12,000 and over",post-secondary (non-tertiary),3600
+2015,male,"$12,000 and over",diploma and professional qualification,10600
+2015,male,"$12,000 and over",degree,80600
+2015,female,Under $500,primary and below,9900
+2015,female,Under $500,lower secondary,3400
+2015,female,Under $500,secondary,7700
+2015,female,Under $500,post-secondary (non-tertiary),4500
+2015,female,Under $500,diploma and professional qualification,3800
+2015,female,Under $500,degree,2200
+2015,female,$500 to $999,primary and below,28400
+2015,female,$500 to $999,lower secondary,10500
+2015,female,$500 to $999,secondary,20000
+2015,female,$500 to $999,post-secondary (non-tertiary),11000
+2015,female,$500 to $999,diploma and professional qualification,7700
+2015,female,$500 to $999,degree,4800
+2015,female,"$1,000 to $1,499",primary and below,43200
+2015,female,"$1,000 to $1,499",lower secondary,18800
+2015,female,"$1,000 to $1,499",secondary,30400
+2015,female,"$1,000 to $1,499",post-secondary (non-tertiary),15300
+2015,female,"$1,000 to $1,499",diploma and professional qualification,11000
+2015,female,"$1,000 to $1,499",degree,8400
+2015,female,"$1,500 to $1,999",primary and below,13900
+2015,female,"$1,500 to $1,999",lower secondary,11600
+2015,female,"$1,500 to $1,999",secondary,27300
+2015,female,"$1,500 to $1,999",post-secondary (non-tertiary),16300
+2015,female,"$1,500 to $1,999",diploma and professional qualification,17400
+2015,female,"$1,500 to $1,999",degree,7800
+2015,female,"$2,000 to $2,499",primary and below,6000
+2015,female,"$2,000 to $2,499",lower secondary,7200
+2015,female,"$2,000 to $2,499",secondary,26000
+2015,female,"$2,000 to $2,499",post-secondary (non-tertiary),12500
+2015,female,"$2,000 to $2,499",diploma and professional qualification,26300
+2015,female,"$2,000 to $2,499",degree,16800
+2015,female,"$2,500 to $2,999",primary and below,1700
+2015,female,"$2,500 to $2,999",lower secondary,2400
+2015,female,"$2,500 to $2,999",secondary,19500
+2015,female,"$2,500 to $2,999",post-secondary (non-tertiary),8500
+2015,female,"$2,500 to $2,999",diploma and professional qualification,24100
+2015,female,"$2,500 to $2,999",degree,21200
+2015,female,"$3,000 to $3,999",primary and below,1900
+2015,female,"$3,000 to $3,999",lower secondary,3000
+2015,female,"$3,000 to $3,999",secondary,28100
+2015,female,"$3,000 to $3,999",post-secondary (non-tertiary),13900
+2015,female,"$3,000 to $3,999",diploma and professional qualification,38700
+2015,female,"$3,000 to $3,999",degree,55000
+2015,female,"$4,000 to $4,999",primary and below,700
+2015,female,"$4,000 to $4,999",lower secondary,1000
+2015,female,"$4,000 to $4,999",secondary,14400
+2015,female,"$4,000 to $4,999",post-secondary (non-tertiary),6500
+2015,female,"$4,000 to $4,999",diploma and professional qualification,24000
+2015,female,"$4,000 to $4,999",degree,45900
+2015,female,"$5,000 to $5,999",primary and below,400
+2015,female,"$5,000 to $5,999",lower secondary,500
+2015,female,"$5,000 to $5,999",secondary,8600
+2015,female,"$5,000 to $5,999",post-secondary (non-tertiary),4300
+2015,female,"$5,000 to $5,999",diploma and professional qualification,15500
+2015,female,"$5,000 to $5,999",degree,39100
+2015,female,"$6,000 to $6,999",primary and below,100
+2015,female,"$6,000 to $6,999",lower secondary,200
+2015,female,"$6,000 to $6,999",secondary,3600
+2015,female,"$6,000 to $6,999",post-secondary (non-tertiary),2400
+2015,female,"$6,000 to $6,999",diploma and professional qualification,8100
+2015,female,"$6,000 to $6,999",degree,24700
+2015,female,"$7,000 to $7,999",primary and below,200
+2015,female,"$7,000 to $7,999",lower secondary,200
+2015,female,"$7,000 to $7,999",secondary,2500
+2015,female,"$7,000 to $7,999",post-secondary (non-tertiary),1000
+2015,female,"$7,000 to $7,999",diploma and professional qualification,3500
+2015,female,"$7,000 to $7,999",degree,21500
+2015,female,"$8,000 to $8,999",primary and below,100
+2015,female,"$8,000 to $8,999",lower secondary,100
+2015,female,"$8,000 to $8,999",secondary,1800
+2015,female,"$8,000 to $8,999",post-secondary (non-tertiary),700
+2015,female,"$8,000 to $8,999",diploma and professional qualification,3200
+2015,female,"$8,000 to $8,999",degree,16900
+2015,female,"$9,000 to $9,999",primary and below,0
+2015,female,"$9,000 to $9,999",lower secondary,0
+2015,female,"$9,000 to $9,999",secondary,700
+2015,female,"$9,000 to $9,999",post-secondary (non-tertiary),400
+2015,female,"$9,000 to $9,999",diploma and professional qualification,1900
+2015,female,"$9,000 to $9,999",degree,11100
+2015,female,"$10,000 to $10,999",primary and below,200
+2015,female,"$10,000 to $10,999",lower secondary,0
+2015,female,"$10,000 to $10,999",secondary,700
+2015,female,"$10,000 to $10,999",post-secondary (non-tertiary),600
+2015,female,"$10,000 to $10,999",diploma and professional qualification,2000
+2015,female,"$10,000 to $10,999",degree,11800
+2015,female,"$11,000 to $11,999",primary and below,0
+2015,female,"$11,000 to $11,999",lower secondary,0
+2015,female,"$11,000 to $11,999",secondary,100
+2015,female,"$11,000 to $11,999",post-secondary (non-tertiary),300
+2015,female,"$11,000 to $11,999",diploma and professional qualification,700
+2015,female,"$11,000 to $11,999",degree,7100
+2015,female,"$12,000 and over",primary and below,100
+2015,female,"$12,000 and over",lower secondary,200
+2015,female,"$12,000 and over",secondary,1900
+2015,female,"$12,000 and over",post-secondary (non-tertiary),1000
+2015,female,"$12,000 and over",diploma and professional qualification,3900
+2015,female,"$12,000 and over",degree,31400
+2016,male,Under $500,primary and below,3800
+2016,male,Under $500,lower secondary,1500
+2016,male,Under $500,secondary,3400
+2016,male,Under $500,post-secondary (non-tertiary),1900
+2016,male,Under $500,diploma and professional qualification,2100
+2016,male,Under $500,degree,600
+2016,male,$500 to $999,primary and below,12300
+2016,male,$500 to $999,lower secondary,5100
+2016,male,$500 to $999,secondary,8500
+2016,male,$500 to $999,post-secondary (non-tertiary),5900
+2016,male,$500 to $999,diploma and professional qualification,4700
+2016,male,$500 to $999,degree,2400
+2016,male,"$1,000 to $1,499",primary and below,37100
+2016,male,"$1,000 to $1,499",lower secondary,18900
+2016,male,"$1,000 to $1,499",secondary,21100
+2016,male,"$1,000 to $1,499",post-secondary (non-tertiary),13400
+2016,male,"$1,000 to $1,499",diploma and professional qualification,6800
+2016,male,"$1,000 to $1,499",degree,4900
+2016,male,"$1,500 to $1,999",primary and below,25900
+2016,male,"$1,500 to $1,999",lower secondary,20200
+2016,male,"$1,500 to $1,999",secondary,27200
+2016,male,"$1,500 to $1,999",post-secondary (non-tertiary),19600
+2016,male,"$1,500 to $1,999",diploma and professional qualification,11100
+2016,male,"$1,500 to $1,999",degree,4900
+2016,male,"$2,000 to $2,499",primary and below,18400
+2016,male,"$2,000 to $2,499",lower secondary,15900
+2016,male,"$2,000 to $2,499",secondary,27400
+2016,male,"$2,000 to $2,499",post-secondary (non-tertiary),20700
+2016,male,"$2,000 to $2,499",diploma and professional qualification,19300
+2016,male,"$2,000 to $2,499",degree,9600
+2016,male,"$2,500 to $2,999",primary and below,8500
+2016,male,"$2,500 to $2,999",lower secondary,8900
+2016,male,"$2,500 to $2,999",secondary,21300
+2016,male,"$2,500 to $2,999",post-secondary (non-tertiary),16400
+2016,male,"$2,500 to $2,999",diploma and professional qualification,22600
+2016,male,"$2,500 to $2,999",degree,10900
+2016,male,"$3,000 to $3,999",primary and below,11800
+2016,male,"$3,000 to $3,999",lower secondary,11800
+2016,male,"$3,000 to $3,999",secondary,30000
+2016,male,"$3,000 to $3,999",post-secondary (non-tertiary),23000
+2016,male,"$3,000 to $3,999",diploma and professional qualification,41200
+2016,male,"$3,000 to $3,999",degree,39800
+2016,male,"$4,000 to $4,999",primary and below,4500
+2016,male,"$4,000 to $4,999",lower secondary,5800
+2016,male,"$4,000 to $4,999",secondary,16200
+2016,male,"$4,000 to $4,999",post-secondary (non-tertiary),12200
+2016,male,"$4,000 to $4,999",diploma and professional qualification,29000
+2016,male,"$4,000 to $4,999",degree,42400
+2016,male,"$5,000 to $5,999",primary and below,2100
+2016,male,"$5,000 to $5,999",lower secondary,3300
+2016,male,"$5,000 to $5,999",secondary,10000
+2016,male,"$5,000 to $5,999",post-secondary (non-tertiary),7900
+2016,male,"$5,000 to $5,999",diploma and professional qualification,22800
+2016,male,"$5,000 to $5,999",degree,44600
+2016,male,"$6,000 to $6,999",primary and below,700
+2016,male,"$6,000 to $6,999",lower secondary,900
+2016,male,"$6,000 to $6,999",secondary,5100
+2016,male,"$6,000 to $6,999",post-secondary (non-tertiary),4000
+2016,male,"$6,000 to $6,999",diploma and professional qualification,12900
+2016,male,"$6,000 to $6,999",degree,30600
+2016,male,"$7,000 to $7,999",primary and below,500
+2016,male,"$7,000 to $7,999",lower secondary,600
+2016,male,"$7,000 to $7,999",secondary,4100
+2016,male,"$7,000 to $7,999",post-secondary (non-tertiary),2400
+2016,male,"$7,000 to $7,999",diploma and professional qualification,8300
+2016,male,"$7,000 to $7,999",degree,32500
+2016,male,"$8,000 to $8,999",primary and below,400
+2016,male,"$8,000 to $8,999",lower secondary,500
+2016,male,"$8,000 to $8,999",secondary,2700
+2016,male,"$8,000 to $8,999",post-secondary (non-tertiary),2400
+2016,male,"$8,000 to $8,999",diploma and professional qualification,6600
+2016,male,"$8,000 to $8,999",degree,27100
+2016,male,"$9,000 to $9,999",primary and below,0
+2016,male,"$9,000 to $9,999",lower secondary,200
+2016,male,"$9,000 to $9,999",secondary,1100
+2016,male,"$9,000 to $9,999",post-secondary (non-tertiary),1100
+2016,male,"$9,000 to $9,999",diploma and professional qualification,3400
+2016,male,"$9,000 to $9,999",degree,18300
+2016,male,"$10,000 to $10,999",primary and below,400
+2016,male,"$10,000 to $10,999",lower secondary,600
+2016,male,"$10,000 to $10,999",secondary,2100
+2016,male,"$10,000 to $10,999",post-secondary (non-tertiary),1100
+2016,male,"$10,000 to $10,999",diploma and professional qualification,3300
+2016,male,"$10,000 to $10,999",degree,19900
+2016,male,"$11,000 to $11,999",primary and below,0
+2016,male,"$11,000 to $11,999",lower secondary,200
+2016,male,"$11,000 to $11,999",secondary,500
+2016,male,"$11,000 to $11,999",post-secondary (non-tertiary),600
+2016,male,"$11,000 to $11,999",diploma and professional qualification,1500
+2016,male,"$11,000 to $11,999",degree,13200
+2016,male,"$12,000 and over",primary and below,1100
+2016,male,"$12,000 and over",lower secondary,700
+2016,male,"$12,000 and over",secondary,4100
+2016,male,"$12,000 and over",post-secondary (non-tertiary),2700
+2016,male,"$12,000 and over",diploma and professional qualification,9400
+2016,male,"$12,000 and over",degree,76400
+2016,female,Under $500,primary and below,9100
+2016,female,Under $500,lower secondary,3700
+2016,female,Under $500,secondary,8100
+2016,female,Under $500,post-secondary (non-tertiary),3600
+2016,female,Under $500,diploma and professional qualification,3200
+2016,female,Under $500,degree,2700
+2016,female,$500 to $999,primary and below,27100
+2016,female,$500 to $999,lower secondary,10300
+2016,female,$500 to $999,secondary,16800
+2016,female,$500 to $999,post-secondary (non-tertiary),9300
+2016,female,$500 to $999,diploma and professional qualification,6700
+2016,female,$500 to $999,degree,4700
+2016,female,"$1,000 to $1,499",primary and below,42300
+2016,female,"$1,000 to $1,499",lower secondary,19900
+2016,female,"$1,000 to $1,499",secondary,26700
+2016,female,"$1,000 to $1,499",post-secondary (non-tertiary),14900
+2016,female,"$1,000 to $1,499",diploma and professional qualification,11200
+2016,female,"$1,000 to $1,499",degree,8600
+2016,female,"$1,500 to $1,999",primary and below,16600
+2016,female,"$1,500 to $1,999",lower secondary,13200
+2016,female,"$1,500 to $1,999",secondary,25600
+2016,female,"$1,500 to $1,999",post-secondary (non-tertiary),15200
+2016,female,"$1,500 to $1,999",diploma and professional qualification,15700
+2016,female,"$1,500 to $1,999",degree,8500
+2016,female,"$2,000 to $2,499",primary and below,6800
+2016,female,"$2,000 to $2,499",lower secondary,7800
+2016,female,"$2,000 to $2,499",secondary,25600
+2016,female,"$2,000 to $2,499",post-secondary (non-tertiary),11100
+2016,female,"$2,000 to $2,499",diploma and professional qualification,27900
+2016,female,"$2,000 to $2,499",degree,14200
+2016,female,"$2,500 to $2,999",primary and below,1800
+2016,female,"$2,500 to $2,999",lower secondary,3800
+2016,female,"$2,500 to $2,999",secondary,18100
+2016,female,"$2,500 to $2,999",post-secondary (non-tertiary),10100
+2016,female,"$2,500 to $2,999",diploma and professional qualification,23300
+2016,female,"$2,500 to $2,999",degree,20400
+2016,female,"$3,000 to $3,999",primary and below,1800
+2016,female,"$3,000 to $3,999",lower secondary,3600
+2016,female,"$3,000 to $3,999",secondary,26700
+2016,female,"$3,000 to $3,999",post-secondary (non-tertiary),11500
+2016,female,"$3,000 to $3,999",diploma and professional qualification,37900
+2016,female,"$3,000 to $3,999",degree,60200
+2016,female,"$4,000 to $4,999",primary and below,800
+2016,female,"$4,000 to $4,999",lower secondary,1400
+2016,female,"$4,000 to $4,999",secondary,15000
+2016,female,"$4,000 to $4,999",post-secondary (non-tertiary),7200
+2016,female,"$4,000 to $4,999",diploma and professional qualification,23700
+2016,female,"$4,000 to $4,999",degree,50000
+2016,female,"$5,000 to $5,999",primary and below,400
+2016,female,"$5,000 to $5,999",lower secondary,800
+2016,female,"$5,000 to $5,999",secondary,6900
+2016,female,"$5,000 to $5,999",post-secondary (non-tertiary),4200
+2016,female,"$5,000 to $5,999",diploma and professional qualification,14500
+2016,female,"$5,000 to $5,999",degree,43300
+2016,female,"$6,000 to $6,999",primary and below,0
+2016,female,"$6,000 to $6,999",lower secondary,200
+2016,female,"$6,000 to $6,999",secondary,4100
+2016,female,"$6,000 to $6,999",post-secondary (non-tertiary),1700
+2016,female,"$6,000 to $6,999",diploma and professional qualification,8500
+2016,female,"$6,000 to $6,999",degree,27900
+2016,female,"$7,000 to $7,999",primary and below,200
+2016,female,"$7,000 to $7,999",lower secondary,200
+2016,female,"$7,000 to $7,999",secondary,2100
+2016,female,"$7,000 to $7,999",post-secondary (non-tertiary),1700
+2016,female,"$7,000 to $7,999",diploma and professional qualification,4200
+2016,female,"$7,000 to $7,999",degree,22800
+2016,female,"$8,000 to $8,999",primary and below,200
+2016,female,"$8,000 to $8,999",lower secondary,100
+2016,female,"$8,000 to $8,999",secondary,1400
+2016,female,"$8,000 to $8,999",post-secondary (non-tertiary),900
+2016,female,"$8,000 to $8,999",diploma and professional qualification,4200
+2016,female,"$8,000 to $8,999",degree,19100
+2016,female,"$9,000 to $9,999",primary and below,0
+2016,female,"$9,000 to $9,999",lower secondary,200
+2016,female,"$9,000 to $9,999",secondary,700
+2016,female,"$9,000 to $9,999",post-secondary (non-tertiary),300
+2016,female,"$9,000 to $9,999",diploma and professional qualification,2700
+2016,female,"$9,000 to $9,999",degree,12900
+2016,female,"$10,000 to $10,999",primary and below,100
+2016,female,"$10,000 to $10,999",lower secondary,100
+2016,female,"$10,000 to $10,999",secondary,1000
+2016,female,"$10,000 to $10,999",post-secondary (non-tertiary),600
+2016,female,"$10,000 to $10,999",diploma and professional qualification,2500
+2016,female,"$10,000 to $10,999",degree,12000
+2016,female,"$11,000 to $11,999",primary and below,0
+2016,female,"$11,000 to $11,999",lower secondary,0
+2016,female,"$11,000 to $11,999",secondary,300
+2016,female,"$11,000 to $11,999",post-secondary (non-tertiary),100
+2016,female,"$11,000 to $11,999",diploma and professional qualification,1000
+2016,female,"$11,000 to $11,999",degree,7300
+2016,female,"$12,000 and over",primary and below,200
+2016,female,"$12,000 and over",lower secondary,300
+2016,female,"$12,000 and over",secondary,1500
+2016,female,"$12,000 and over",post-secondary (non-tertiary),1000
+2016,female,"$12,000 and over",diploma and professional qualification,3400
+2016,female,"$12,000 and over",degree,34900
+2017,male,Under $500,primary and below,3300
+2017,male,Under $500,lower secondary,1300
+2017,male,Under $500,secondary,3800
+2017,male,Under $500,post-secondary (non-tertiary),2400
+2017,male,Under $500,diploma and professional qualification,1900
+2017,male,Under $500,degree,1400
+2017,male,$500 to $999,primary and below,14300
+2017,male,$500 to $999,lower secondary,5100
+2017,male,$500 to $999,secondary,9000
+2017,male,$500 to $999,post-secondary (non-tertiary),6600
+2017,male,$500 to $999,diploma and professional qualification,5300
+2017,male,$500 to $999,degree,2900
+2017,male,"$1,000 to $1,499",primary and below,37500
+2017,male,"$1,000 to $1,499",lower secondary,19700
+2017,male,"$1,000 to $1,499",secondary,20600
+2017,male,"$1,000 to $1,499",post-secondary (non-tertiary),13000
+2017,male,"$1,000 to $1,499",diploma and professional qualification,7500
+2017,male,"$1,000 to $1,499",degree,4600
+2017,male,"$1,500 to $1,999",primary and below,25000
+2017,male,"$1,500 to $1,999",lower secondary,17100
+2017,male,"$1,500 to $1,999",secondary,24000
+2017,male,"$1,500 to $1,999",post-secondary (non-tertiary),19200
+2017,male,"$1,500 to $1,999",diploma and professional qualification,9100
+2017,male,"$1,500 to $1,999",degree,4600
+2017,male,"$2,000 to $2,499",primary and below,20700
+2017,male,"$2,000 to $2,499",lower secondary,14500
+2017,male,"$2,000 to $2,499",secondary,26700
+2017,male,"$2,000 to $2,499",post-secondary (non-tertiary),19800
+2017,male,"$2,000 to $2,499",diploma and professional qualification,17300
+2017,male,"$2,000 to $2,499",degree,10700
+2017,male,"$2,500 to $2,999",primary and below,8400
+2017,male,"$2,500 to $2,999",lower secondary,8600
+2017,male,"$2,500 to $2,999",secondary,18100
+2017,male,"$2,500 to $2,999",post-secondary (non-tertiary),14500
+2017,male,"$2,500 to $2,999",diploma and professional qualification,19400
+2017,male,"$2,500 to $2,999",degree,10400
+2017,male,"$3,000 to $3,999",primary and below,9800
+2017,male,"$3,000 to $3,999",lower secondary,11300
+2017,male,"$3,000 to $3,999",secondary,31100
+2017,male,"$3,000 to $3,999",post-secondary (non-tertiary),23600
+2017,male,"$3,000 to $3,999",diploma and professional qualification,40200
+2017,male,"$3,000 to $3,999",degree,41600
+2017,male,"$4,000 to $4,999",primary and below,3900
+2017,male,"$4,000 to $4,999",lower secondary,5100
+2017,male,"$4,000 to $4,999",secondary,15500
+2017,male,"$4,000 to $4,999",post-secondary (non-tertiary),11400
+2017,male,"$4,000 to $4,999",diploma and professional qualification,30400
+2017,male,"$4,000 to $4,999",degree,44700
+2017,male,"$5,000 to $5,999",primary and below,1700
+2017,male,"$5,000 to $5,999",lower secondary,3300
+2017,male,"$5,000 to $5,999",secondary,11400
+2017,male,"$5,000 to $5,999",post-secondary (non-tertiary),7400
+2017,male,"$5,000 to $5,999",diploma and professional qualification,23900
+2017,male,"$5,000 to $5,999",degree,46600
+2017,male,"$6,000 to $6,999",primary and below,800
+2017,male,"$6,000 to $6,999",lower secondary,1500
+2017,male,"$6,000 to $6,999",secondary,4900
+2017,male,"$6,000 to $6,999",post-secondary (non-tertiary),3800
+2017,male,"$6,000 to $6,999",diploma and professional qualification,11900
+2017,male,"$6,000 to $6,999",degree,34300
+2017,male,"$7,000 to $7,999",primary and below,400
+2017,male,"$7,000 to $7,999",lower secondary,700
+2017,male,"$7,000 to $7,999",secondary,3300
+2017,male,"$7,000 to $7,999",post-secondary (non-tertiary),2100
+2017,male,"$7,000 to $7,999",diploma and professional qualification,8300
+2017,male,"$7,000 to $7,999",degree,31000
+2017,male,"$8,000 to $8,999",primary and below,500
+2017,male,"$8,000 to $8,999",lower secondary,400
+2017,male,"$8,000 to $8,999",secondary,2600
+2017,male,"$8,000 to $8,999",post-secondary (non-tertiary),1900
+2017,male,"$8,000 to $8,999",diploma and professional qualification,6100
+2017,male,"$8,000 to $8,999",degree,28000
+2017,male,"$9,000 to $9,999",primary and below,200
+2017,male,"$9,000 to $9,999",lower secondary,400
+2017,male,"$9,000 to $9,999",secondary,800
+2017,male,"$9,000 to $9,999",post-secondary (non-tertiary),600
+2017,male,"$9,000 to $9,999",diploma and professional qualification,3300
+2017,male,"$9,000 to $9,999",degree,21200
+2017,male,"$10,000 to $10,999",primary and below,600
+2017,male,"$10,000 to $10,999",lower secondary,400
+2017,male,"$10,000 to $10,999",secondary,2300
+2017,male,"$10,000 to $10,999",post-secondary (non-tertiary),1100
+2017,male,"$10,000 to $10,999",diploma and professional qualification,4300
+2017,male,"$10,000 to $10,999",degree,24200
+2017,male,"$11,000 to $11,999",primary and below,100
+2017,male,"$11,000 to $11,999",lower secondary,200
+2017,male,"$11,000 to $11,999",secondary,600
+2017,male,"$11,000 to $11,999",post-secondary (non-tertiary),400
+2017,male,"$11,000 to $11,999",diploma and professional qualification,2300
+2017,male,"$11,000 to $11,999",degree,14300
+2017,male,"$12,000 and over",primary and below,600
+2017,male,"$12,000 and over",lower secondary,800
+2017,male,"$12,000 and over",secondary,3700
+2017,male,"$12,000 and over",post-secondary (non-tertiary),2700
+2017,male,"$12,000 and over",diploma and professional qualification,9500
+2017,male,"$12,000 and over",degree,91200
+2017,female,Under $500,primary and below,8100
+2017,female,Under $500,lower secondary,3200
+2017,female,Under $500,secondary,8300
+2017,female,Under $500,post-secondary (non-tertiary),3200
+2017,female,Under $500,diploma and professional qualification,3600
+2017,female,Under $500,degree,2300
+2017,female,$500 to $999,primary and below,24700
+2017,female,$500 to $999,lower secondary,9600
+2017,female,$500 to $999,secondary,13400
+2017,female,$500 to $999,post-secondary (non-tertiary),9000
+2017,female,$500 to $999,diploma and professional qualification,6000
+2017,female,$500 to $999,degree,5000
+2017,female,"$1,000 to $1,499",primary and below,42200
+2017,female,"$1,000 to $1,499",lower secondary,17300
+2017,female,"$1,000 to $1,499",secondary,23200
+2017,female,"$1,000 to $1,499",post-secondary (non-tertiary),14800
+2017,female,"$1,000 to $1,499",diploma and professional qualification,10100
+2017,female,"$1,000 to $1,499",degree,8000
+2017,female,"$1,500 to $1,999",primary and below,15000
+2017,female,"$1,500 to $1,999",lower secondary,14300
+2017,female,"$1,500 to $1,999",secondary,25000
+2017,female,"$1,500 to $1,999",post-secondary (non-tertiary),14900
+2017,female,"$1,500 to $1,999",diploma and professional qualification,13900
+2017,female,"$1,500 to $1,999",degree,7700
+2017,female,"$2,000 to $2,499",primary and below,6000
+2017,female,"$2,000 to $2,499",lower secondary,8300
+2017,female,"$2,000 to $2,499",secondary,25800
+2017,female,"$2,000 to $2,499",post-secondary (non-tertiary),12200
+2017,female,"$2,000 to $2,499",diploma and professional qualification,25400
+2017,female,"$2,000 to $2,499",degree,15800
+2017,female,"$2,500 to $2,999",primary and below,1900
+2017,female,"$2,500 to $2,999",lower secondary,4200
+2017,female,"$2,500 to $2,999",secondary,18200
+2017,female,"$2,500 to $2,999",post-secondary (non-tertiary),7000
+2017,female,"$2,500 to $2,999",diploma and professional qualification,20900
+2017,female,"$2,500 to $2,999",degree,20000
+2017,female,"$3,000 to $3,999",primary and below,2100
+2017,female,"$3,000 to $3,999",lower secondary,4000
+2017,female,"$3,000 to $3,999",secondary,29900
+2017,female,"$3,000 to $3,999",post-secondary (non-tertiary),12300
+2017,female,"$3,000 to $3,999",diploma and professional qualification,42700
+2017,female,"$3,000 to $3,999",degree,57500
+2017,female,"$4,000 to $4,999",primary and below,800
+2017,female,"$4,000 to $4,999",lower secondary,1000
+2017,female,"$4,000 to $4,999",secondary,14600
+2017,female,"$4,000 to $4,999",post-secondary (non-tertiary),6300
+2017,female,"$4,000 to $4,999",diploma and professional qualification,24500
+2017,female,"$4,000 to $4,999",degree,53400
+2017,female,"$5,000 to $5,999",primary and below,300
+2017,female,"$5,000 to $5,999",lower secondary,600
+2017,female,"$5,000 to $5,999",secondary,6900
+2017,female,"$5,000 to $5,999",post-secondary (non-tertiary),3700
+2017,female,"$5,000 to $5,999",diploma and professional qualification,15900
+2017,female,"$5,000 to $5,999",degree,44700
+2017,female,"$6,000 to $6,999",primary and below,200
+2017,female,"$6,000 to $6,999",lower secondary,100
+2017,female,"$6,000 to $6,999",secondary,3700
+2017,female,"$6,000 to $6,999",post-secondary (non-tertiary),2100
+2017,female,"$6,000 to $6,999",diploma and professional qualification,8500
+2017,female,"$6,000 to $6,999",degree,31200
+2017,female,"$7,000 to $7,999",primary and below,200
+2017,female,"$7,000 to $7,999",lower secondary,0
+2017,female,"$7,000 to $7,999",secondary,2000
+2017,female,"$7,000 to $7,999",post-secondary (non-tertiary),1700
+2017,female,"$7,000 to $7,999",diploma and professional qualification,5700
+2017,female,"$7,000 to $7,999",degree,25500
+2017,female,"$8,000 to $8,999",primary and below,100
+2017,female,"$8,000 to $8,999",lower secondary,200
+2017,female,"$8,000 to $8,999",secondary,1300
+2017,female,"$8,000 to $8,999",post-secondary (non-tertiary),1300
+2017,female,"$8,000 to $8,999",diploma and professional qualification,2900
+2017,female,"$8,000 to $8,999",degree,20000
+2017,female,"$9,000 to $9,999",primary and below,0
+2017,female,"$9,000 to $9,999",lower secondary,100
+2017,female,"$9,000 to $9,999",secondary,400
+2017,female,"$9,000 to $9,999",post-secondary (non-tertiary),700
+2017,female,"$9,000 to $9,999",diploma and professional qualification,2400
+2017,female,"$9,000 to $9,999",degree,13600
+2017,female,"$10,000 to $10,999",primary and below,300
+2017,female,"$10,000 to $10,999",lower secondary,200
+2017,female,"$10,000 to $10,999",secondary,900
+2017,female,"$10,000 to $10,999",post-secondary (non-tertiary),500
+2017,female,"$10,000 to $10,999",diploma and professional qualification,2000
+2017,female,"$10,000 to $10,999",degree,13300
+2017,female,"$11,000 to $11,999",primary and below,0
+2017,female,"$11,000 to $11,999",lower secondary,100
+2017,female,"$11,000 to $11,999",secondary,300
+2017,female,"$11,000 to $11,999",post-secondary (non-tertiary),300
+2017,female,"$11,000 to $11,999",diploma and professional qualification,1300
+2017,female,"$11,000 to $11,999",degree,7800
+2017,female,"$12,000 and over",primary and below,200
+2017,female,"$12,000 and over",lower secondary,200
+2017,female,"$12,000 and over",secondary,1600
+2017,female,"$12,000 and over",post-secondary (non-tertiary),1200
+2017,female,"$12,000 and over",diploma and professional qualification,3200
+2017,female,"$12,000 and over",degree,38500
+2018,male,Under $500,primary and below,3600
+2018,male,Under $500,lower secondary,1200
+2018,male,Under $500,secondary,4000
+2018,male,Under $500,post-secondary (non-tertiary),1600
+2018,male,Under $500,diploma and professional qualification,2600
+2018,male,Under $500,degree,1000
+2018,male,$500 to $999,primary and below,9300
+2018,male,$500 to $999,lower secondary,4000
+2018,male,$500 to $999,secondary,9500
+2018,male,$500 to $999,post-secondary (non-tertiary),6900
+2018,male,$500 to $999,diploma and professional qualification,4900
+2018,male,$500 to $999,degree,3200
+2018,male,"$1,000 to $1,499",primary and below,31700
+2018,male,"$1,000 to $1,499",lower secondary,15900
+2018,male,"$1,000 to $1,499",secondary,17800
+2018,male,"$1,000 to $1,499",post-secondary (non-tertiary),13700
+2018,male,"$1,000 to $1,499",diploma and professional qualification,8600
+2018,male,"$1,000 to $1,499",degree,5800
+2018,male,"$1,500 to $1,999",primary and below,23500
+2018,male,"$1,500 to $1,999",lower secondary,15500
+2018,male,"$1,500 to $1,999",secondary,25600
+2018,male,"$1,500 to $1,999",post-secondary (non-tertiary),16200
+2018,male,"$1,500 to $1,999",diploma and professional qualification,9800
+2018,male,"$1,500 to $1,999",degree,5100
+2018,male,"$2,000 to $2,499",primary and below,19200
+2018,male,"$2,000 to $2,499",lower secondary,14300
+2018,male,"$2,000 to $2,499",secondary,24900
+2018,male,"$2,000 to $2,499",post-secondary (non-tertiary),19800
+2018,male,"$2,000 to $2,499",diploma and professional qualification,18400
+2018,male,"$2,000 to $2,499",degree,9300
+2018,male,"$2,500 to $2,999",primary and below,9600
+2018,male,"$2,500 to $2,999",lower secondary,9100
+2018,male,"$2,500 to $2,999",secondary,19400
+2018,male,"$2,500 to $2,999",post-secondary (non-tertiary),17400
+2018,male,"$2,500 to $2,999",diploma and professional qualification,19900
+2018,male,"$2,500 to $2,999",degree,11600
+2018,male,"$3,000 to $3,999",primary and below,9400
+2018,male,"$3,000 to $3,999",lower secondary,11600
+2018,male,"$3,000 to $3,999",secondary,30700
+2018,male,"$3,000 to $3,999",post-secondary (non-tertiary),25000
+2018,male,"$3,000 to $3,999",diploma and professional qualification,42900
+2018,male,"$3,000 to $3,999",degree,41700
+2018,male,"$4,000 to $4,999",primary and below,3400
+2018,male,"$4,000 to $4,999",lower secondary,4700
+2018,male,"$4,000 to $4,999",secondary,18100
+2018,male,"$4,000 to $4,999",post-secondary (non-tertiary),13300
+2018,male,"$4,000 to $4,999",diploma and professional qualification,30700
+2018,male,"$4,000 to $4,999",degree,44700
+2018,male,"$5,000 to $5,999",primary and below,1500
+2018,male,"$5,000 to $5,999",lower secondary,2800
+2018,male,"$5,000 to $5,999",secondary,11300
+2018,male,"$5,000 to $5,999",post-secondary (non-tertiary),7800
+2018,male,"$5,000 to $5,999",diploma and professional qualification,23000
+2018,male,"$5,000 to $5,999",degree,46900
+2018,male,"$6,000 to $6,999",primary and below,1200
+2018,male,"$6,000 to $6,999",lower secondary,800
+2018,male,"$6,000 to $6,999",secondary,5700
+2018,male,"$6,000 to $6,999",post-secondary (non-tertiary),4200
+2018,male,"$6,000 to $6,999",diploma and professional qualification,13100
+2018,male,"$6,000 to $6,999",degree,34900
+2018,male,"$7,000 to $7,999",primary and below,100
+2018,male,"$7,000 to $7,999",lower secondary,700
+2018,male,"$7,000 to $7,999",secondary,3600
+2018,male,"$7,000 to $7,999",post-secondary (non-tertiary),2600
+2018,male,"$7,000 to $7,999",diploma and professional qualification,10400
+2018,male,"$7,000 to $7,999",degree,32100
+2018,male,"$8,000 to $8,999",primary and below,400
+2018,male,"$8,000 to $8,999",lower secondary,400
+2018,male,"$8,000 to $8,999",secondary,2800
+2018,male,"$8,000 to $8,999",post-secondary (non-tertiary),1300
+2018,male,"$8,000 to $8,999",diploma and professional qualification,6200
+2018,male,"$8,000 to $8,999",degree,27700
+2018,male,"$9,000 to $9,999",primary and below,200
+2018,male,"$9,000 to $9,999",lower secondary,400
+2018,male,"$9,000 to $9,999",secondary,1200
+2018,male,"$9,000 to $9,999",post-secondary (non-tertiary),1100
+2018,male,"$9,000 to $9,999",diploma and professional qualification,3300
+2018,male,"$9,000 to $9,999",degree,21900
+2018,male,"$10,000 to $10,999",primary and below,500
+2018,male,"$10,000 to $10,999",lower secondary,500
+2018,male,"$10,000 to $10,999",secondary,1900
+2018,male,"$10,000 to $10,999",post-secondary (non-tertiary),1300
+2018,male,"$10,000 to $10,999",diploma and professional qualification,4500
+2018,male,"$10,000 to $10,999",degree,27000
+2018,male,"$11,000 to $11,999",primary and below,100
+2018,male,"$11,000 to $11,999",lower secondary,200
+2018,male,"$11,000 to $11,999",secondary,500
+2018,male,"$11,000 to $11,999",post-secondary (non-tertiary),400
+2018,male,"$11,000 to $11,999",diploma and professional qualification,2200
+2018,male,"$11,000 to $11,999",degree,16700
+2018,male,"$12,000 and over",primary and below,900
+2018,male,"$12,000 and over",lower secondary,800
+2018,male,"$12,000 and over",secondary,3800
+2018,male,"$12,000 and over",post-secondary (non-tertiary),2500
+2018,male,"$12,000 and over",diploma and professional qualification,8400
+2018,male,"$12,000 and over",degree,96300
+2018,female,Under $500,primary and below,7700
+2018,female,Under $500,lower secondary,2200
+2018,female,Under $500,secondary,6200
+2018,female,Under $500,post-secondary (non-tertiary),3700
+2018,female,Under $500,diploma and professional qualification,4600
+2018,female,Under $500,degree,2800
+2018,female,$500 to $999,primary and below,19600
+2018,female,$500 to $999,lower secondary,8700
+2018,female,$500 to $999,secondary,14800
+2018,female,$500 to $999,post-secondary (non-tertiary),9000
+2018,female,$500 to $999,diploma and professional qualification,8000
+2018,female,$500 to $999,degree,4100
+2018,female,"$1,000 to $1,499",primary and below,37300
+2018,female,"$1,000 to $1,499",lower secondary,15900
+2018,female,"$1,000 to $1,499",secondary,26200
+2018,female,"$1,000 to $1,499",post-secondary (non-tertiary),15800
+2018,female,"$1,000 to $1,499",diploma and professional qualification,11900
+2018,female,"$1,000 to $1,499",degree,9600
+2018,female,"$1,500 to $1,999",primary and below,19100
+2018,female,"$1,500 to $1,999",lower secondary,12100
+2018,female,"$1,500 to $1,999",secondary,24800
+2018,female,"$1,500 to $1,999",post-secondary (non-tertiary),13400
+2018,female,"$1,500 to $1,999",diploma and professional qualification,13700
+2018,female,"$1,500 to $1,999",degree,7400
+2018,female,"$2,000 to $2,499",primary and below,7100
+2018,female,"$2,000 to $2,499",lower secondary,8100
+2018,female,"$2,000 to $2,499",secondary,24700
+2018,female,"$2,000 to $2,499",post-secondary (non-tertiary),13300
+2018,female,"$2,000 to $2,499",diploma and professional qualification,25700
+2018,female,"$2,000 to $2,499",degree,15100
+2018,female,"$2,500 to $2,999",primary and below,2000
+2018,female,"$2,500 to $2,999",lower secondary,3300
+2018,female,"$2,500 to $2,999",secondary,18200
+2018,female,"$2,500 to $2,999",post-secondary (non-tertiary),8900
+2018,female,"$2,500 to $2,999",diploma and professional qualification,24700
+2018,female,"$2,500 to $2,999",degree,19000
+2018,female,"$3,000 to $3,999",primary and below,2200
+2018,female,"$3,000 to $3,999",lower secondary,3300
+2018,female,"$3,000 to $3,999",secondary,27600
+2018,female,"$3,000 to $3,999",post-secondary (non-tertiary),12800
+2018,female,"$3,000 to $3,999",diploma and professional qualification,39400
+2018,female,"$3,000 to $3,999",degree,62800
+2018,female,"$4,000 to $4,999",primary and below,1100
+2018,female,"$4,000 to $4,999",lower secondary,1800
+2018,female,"$4,000 to $4,999",secondary,15400
+2018,female,"$4,000 to $4,999",post-secondary (non-tertiary),7600
+2018,female,"$4,000 to $4,999",diploma and professional qualification,27300
+2018,female,"$4,000 to $4,999",degree,54900
+2018,female,"$5,000 to $5,999",primary and below,200
+2018,female,"$5,000 to $5,999",lower secondary,900
+2018,female,"$5,000 to $5,999",secondary,8300
+2018,female,"$5,000 to $5,999",post-secondary (non-tertiary),4000
+2018,female,"$5,000 to $5,999",diploma and professional qualification,14200
+2018,female,"$5,000 to $5,999",degree,46100
+2018,female,"$6,000 to $6,999",primary and below,300
+2018,female,"$6,000 to $6,999",lower secondary,200
+2018,female,"$6,000 to $6,999",secondary,3500
+2018,female,"$6,000 to $6,999",post-secondary (non-tertiary),2100
+2018,female,"$6,000 to $6,999",diploma and professional qualification,9000
+2018,female,"$6,000 to $6,999",degree,31500
+2018,female,"$7,000 to $7,999",primary and below,100
+2018,female,"$7,000 to $7,999",lower secondary,200
+2018,female,"$7,000 to $7,999",secondary,2400
+2018,female,"$7,000 to $7,999",post-secondary (non-tertiary),900
+2018,female,"$7,000 to $7,999",diploma and professional qualification,5400
+2018,female,"$7,000 to $7,999",degree,25500
+2018,female,"$8,000 to $8,999",primary and below,100
+2018,female,"$8,000 to $8,999",lower secondary,300
+2018,female,"$8,000 to $8,999",secondary,1600
+2018,female,"$8,000 to $8,999",post-secondary (non-tertiary),1100
+2018,female,"$8,000 to $8,999",diploma and professional qualification,3800
+2018,female,"$8,000 to $8,999",degree,21300
+2018,female,"$9,000 to $9,999",primary and below,0
+2018,female,"$9,000 to $9,999",lower secondary,100
+2018,female,"$9,000 to $9,999",secondary,700
+2018,female,"$9,000 to $9,999",post-secondary (non-tertiary),400
+2018,female,"$9,000 to $9,999",diploma and professional qualification,2100
+2018,female,"$9,000 to $9,999",degree,15800
+2018,female,"$10,000 to $10,999",primary and below,200
+2018,female,"$10,000 to $10,999",lower secondary,0
+2018,female,"$10,000 to $10,999",secondary,1000
+2018,female,"$10,000 to $10,999",post-secondary (non-tertiary),300
+2018,female,"$10,000 to $10,999",diploma and professional qualification,2200
+2018,female,"$10,000 to $10,999",degree,14800
+2018,female,"$11,000 to $11,999",primary and below,0
+2018,female,"$11,000 to $11,999",lower secondary,0
+2018,female,"$11,000 to $11,999",secondary,300
+2018,female,"$11,000 to $11,999",post-secondary (non-tertiary),300
+2018,female,"$11,000 to $11,999",diploma and professional qualification,1200
+2018,female,"$11,000 to $11,999",degree,7700
+2018,female,"$12,000 and over",primary and below,100
+2018,female,"$12,000 and over",lower secondary,100
+2018,female,"$12,000 and over",secondary,1300
+2018,female,"$12,000 and over",post-secondary (non-tertiary),1200
+2018,female,"$12,000 and over",diploma and professional qualification,4500
+2018,female,"$12,000 and over",degree,44200
+2019,male,Under $500,primary and below,2600
+2019,male,Under $500,lower secondary,1400
+2019,male,Under $500,secondary,3800
+2019,male,Under $500,post-secondary (non-tertiary),2100
+2019,male,Under $500,diploma and professional qualification,2500
+2019,male,Under $500,degree,1100
+2019,male,$500 to $999,primary and below,10000
+2019,male,$500 to $999,lower secondary,4600
+2019,male,$500 to $999,secondary,8500
+2019,male,$500 to $999,post-secondary (non-tertiary),6100
+2019,male,$500 to $999,diploma and professional qualification,6000
+2019,male,$500 to $999,degree,2600
+2019,male,"$1,000 to $1,499",primary and below,30100
+2019,male,"$1,000 to $1,499",lower secondary,14500
+2019,male,"$1,000 to $1,499",secondary,18700
+2019,male,"$1,000 to $1,499",post-secondary (non-tertiary),10800
+2019,male,"$1,000 to $1,499",diploma and professional qualification,9200
+2019,male,"$1,000 to $1,499",degree,4900
+2019,male,"$1,500 to $1,999",primary and below,22500
+2019,male,"$1,500 to $1,999",lower secondary,14700
+2019,male,"$1,500 to $1,999",secondary,20900
+2019,male,"$1,500 to $1,999",post-secondary (non-tertiary),15500
+2019,male,"$1,500 to $1,999",diploma and professional qualification,10200
+2019,male,"$1,500 to $1,999",degree,4400
+2019,male,"$2,000 to $2,499",primary and below,18700
+2019,male,"$2,000 to $2,499",lower secondary,13000
+2019,male,"$2,000 to $2,499",secondary,24800
+2019,male,"$2,000 to $2,499",post-secondary (non-tertiary),20100
+2019,male,"$2,000 to $2,499",diploma and professional qualification,17100
+2019,male,"$2,000 to $2,499",degree,8300
+2019,male,"$2,500 to $2,999",primary and below,10000
+2019,male,"$2,500 to $2,999",lower secondary,9200
+2019,male,"$2,500 to $2,999",secondary,19800
+2019,male,"$2,500 to $2,999",post-secondary (non-tertiary),16000
+2019,male,"$2,500 to $2,999",diploma and professional qualification,19400
+2019,male,"$2,500 to $2,999",degree,9900
+2019,male,"$3,000 to $3,999",primary and below,10700
+2019,male,"$3,000 to $3,999",lower secondary,10300
+2019,male,"$3,000 to $3,999",secondary,32500
+2019,male,"$3,000 to $3,999",post-secondary (non-tertiary),27000
+2019,male,"$3,000 to $3,999",diploma and professional qualification,41200
+2019,male,"$3,000 to $3,999",degree,44200
+2019,male,"$4,000 to $4,999",primary and below,4200
+2019,male,"$4,000 to $4,999",lower secondary,4300
+2019,male,"$4,000 to $4,999",secondary,19500
+2019,male,"$4,000 to $4,999",post-secondary (non-tertiary),13800
+2019,male,"$4,000 to $4,999",diploma and professional qualification,34700
+2019,male,"$4,000 to $4,999",degree,47300
+2019,male,"$5,000 to $5,999",primary and below,2000
+2019,male,"$5,000 to $5,999",lower secondary,2900
+2019,male,"$5,000 to $5,999",secondary,10300
+2019,male,"$5,000 to $5,999",post-secondary (non-tertiary),8900
+2019,male,"$5,000 to $5,999",diploma and professional qualification,25100
+2019,male,"$5,000 to $5,999",degree,45200
+2019,male,"$6,000 to $6,999",primary and below,500
+2019,male,"$6,000 to $6,999",lower secondary,1000
+2019,male,"$6,000 to $6,999",secondary,4700
+2019,male,"$6,000 to $6,999",post-secondary (non-tertiary),4200
+2019,male,"$6,000 to $6,999",diploma and professional qualification,15100
+2019,male,"$6,000 to $6,999",degree,33200
+2019,male,"$7,000 to $7,999",primary and below,700
+2019,male,"$7,000 to $7,999",lower secondary,500
+2019,male,"$7,000 to $7,999",secondary,3600
+2019,male,"$7,000 to $7,999",post-secondary (non-tertiary),2000
+2019,male,"$7,000 to $7,999",diploma and professional qualification,11200
+2019,male,"$7,000 to $7,999",degree,34000
+2019,male,"$8,000 to $8,999",primary and below,400
+2019,male,"$8,000 to $8,999",lower secondary,500
+2019,male,"$8,000 to $8,999",secondary,2700
+2019,male,"$8,000 to $8,999",post-secondary (non-tertiary),2200
+2019,male,"$8,000 to $8,999",diploma and professional qualification,6600
+2019,male,"$8,000 to $8,999",degree,29500
+2019,male,"$9,000 to $9,999",primary and below,0
+2019,male,"$9,000 to $9,999",lower secondary,200
+2019,male,"$9,000 to $9,999",secondary,1200
+2019,male,"$9,000 to $9,999",post-secondary (non-tertiary),900
+2019,male,"$9,000 to $9,999",diploma and professional qualification,4200
+2019,male,"$9,000 to $9,999",degree,25000
+2019,male,"$10,000 to $10,999",primary and below,300
+2019,male,"$10,000 to $10,999",lower secondary,400
+2019,male,"$10,000 to $10,999",secondary,2100
+2019,male,"$10,000 to $10,999",post-secondary (non-tertiary),1000
+2019,male,"$10,000 to $10,999",diploma and professional qualification,5000
+2019,male,"$10,000 to $10,999",degree,29100
+2019,male,"$11,000 to $11,999",primary and below,100
+2019,male,"$11,000 to $11,999",lower secondary,100
+2019,male,"$11,000 to $11,999",secondary,400
+2019,male,"$11,000 to $11,999",post-secondary (non-tertiary),600
+2019,male,"$11,000 to $11,999",diploma and professional qualification,2100
+2019,male,"$11,000 to $11,999",degree,14100
+2019,male,"$12,000 and over",primary and below,600
+2019,male,"$12,000 and over",lower secondary,900
+2019,male,"$12,000 and over",secondary,3300
+2019,male,"$12,000 and over",post-secondary (non-tertiary),2400
+2019,male,"$12,000 and over",diploma and professional qualification,11800
+2019,male,"$12,000 and over",degree,99700
+2019,female,Under $500,primary and below,6000
+2019,female,Under $500,lower secondary,2500
+2019,female,Under $500,secondary,6600
+2019,female,Under $500,post-secondary (non-tertiary),4400
+2019,female,Under $500,diploma and professional qualification,3100
+2019,female,Under $500,degree,3500
+2019,female,$500 to $999,primary and below,18600
+2019,female,$500 to $999,lower secondary,8200
+2019,female,$500 to $999,secondary,14700
+2019,female,$500 to $999,post-secondary (non-tertiary),9600
+2019,female,$500 to $999,diploma and professional qualification,7500
+2019,female,$500 to $999,degree,5600
+2019,female,"$1,000 to $1,499",primary and below,34800
+2019,female,"$1,000 to $1,499",lower secondary,15000
+2019,female,"$1,000 to $1,499",secondary,24600
+2019,female,"$1,000 to $1,499",post-secondary (non-tertiary),13700
+2019,female,"$1,000 to $1,499",diploma and professional qualification,11600
+2019,female,"$1,000 to $1,499",degree,10900
+2019,female,"$1,500 to $1,999",primary and below,16100
+2019,female,"$1,500 to $1,999",lower secondary,10000
+2019,female,"$1,500 to $1,999",secondary,23700
+2019,female,"$1,500 to $1,999",post-secondary (non-tertiary),13400
+2019,female,"$1,500 to $1,999",diploma and professional qualification,13400
+2019,female,"$1,500 to $1,999",degree,7000
+2019,female,"$2,000 to $2,499",primary and below,8000
+2019,female,"$2,000 to $2,499",lower secondary,7400
+2019,female,"$2,000 to $2,499",secondary,22500
+2019,female,"$2,000 to $2,499",post-secondary (non-tertiary),13200
+2019,female,"$2,000 to $2,499",diploma and professional qualification,24500
+2019,female,"$2,000 to $2,499",degree,14200
+2019,female,"$2,500 to $2,999",primary and below,3600
+2019,female,"$2,500 to $2,999",lower secondary,4500
+2019,female,"$2,500 to $2,999",secondary,21600
+2019,female,"$2,500 to $2,999",post-secondary (non-tertiary),10700
+2019,female,"$2,500 to $2,999",diploma and professional qualification,25300
+2019,female,"$2,500 to $2,999",degree,19800
+2019,female,"$3,000 to $3,999",primary and below,2100
+2019,female,"$3,000 to $3,999",lower secondary,4300
+2019,female,"$3,000 to $3,999",secondary,28900
+2019,female,"$3,000 to $3,999",post-secondary (non-tertiary),13700
+2019,female,"$3,000 to $3,999",diploma and professional qualification,41000
+2019,female,"$3,000 to $3,999",degree,61200
+2019,female,"$4,000 to $4,999",primary and below,900
+2019,female,"$4,000 to $4,999",lower secondary,1400
+2019,female,"$4,000 to $4,999",secondary,15500
+2019,female,"$4,000 to $4,999",post-secondary (non-tertiary),6700
+2019,female,"$4,000 to $4,999",diploma and professional qualification,27500
+2019,female,"$4,000 to $4,999",degree,55900
+2019,female,"$5,000 to $5,999",primary and below,500
+2019,female,"$5,000 to $5,999",lower secondary,1200
+2019,female,"$5,000 to $5,999",secondary,7200
+2019,female,"$5,000 to $5,999",post-secondary (non-tertiary),3900
+2019,female,"$5,000 to $5,999",diploma and professional qualification,17600
+2019,female,"$5,000 to $5,999",degree,51000
+2019,female,"$6,000 to $6,999",primary and below,100
+2019,female,"$6,000 to $6,999",lower secondary,200
+2019,female,"$6,000 to $6,999",secondary,4000
+2019,female,"$6,000 to $6,999",post-secondary (non-tertiary),1800
+2019,female,"$6,000 to $6,999",diploma and professional qualification,9600
+2019,female,"$6,000 to $6,999",degree,34500
+2019,female,"$7,000 to $7,999",primary and below,100
+2019,female,"$7,000 to $7,999",lower secondary,200
+2019,female,"$7,000 to $7,999",secondary,1700
+2019,female,"$7,000 to $7,999",post-secondary (non-tertiary),1800
+2019,female,"$7,000 to $7,999",diploma and professional qualification,7300
+2019,female,"$7,000 to $7,999",degree,29500
+2019,female,"$8,000 to $8,999",primary and below,0
+2019,female,"$8,000 to $8,999",lower secondary,100
+2019,female,"$8,000 to $8,999",secondary,1500
+2019,female,"$8,000 to $8,999",post-secondary (non-tertiary),800
+2019,female,"$8,000 to $8,999",diploma and professional qualification,4100
+2019,female,"$8,000 to $8,999",degree,22900
+2019,female,"$9,000 to $9,999",primary and below,100
+2019,female,"$9,000 to $9,999",lower secondary,100
+2019,female,"$9,000 to $9,999",secondary,900
+2019,female,"$9,000 to $9,999",post-secondary (non-tertiary),700
+2019,female,"$9,000 to $9,999",diploma and professional qualification,2800
+2019,female,"$9,000 to $9,999",degree,17700
+2019,female,"$10,000 to $10,999",primary and below,100
+2019,female,"$10,000 to $10,999",lower secondary,100
+2019,female,"$10,000 to $10,999",secondary,900
+2019,female,"$10,000 to $10,999",post-secondary (non-tertiary),700
+2019,female,"$10,000 to $10,999",diploma and professional qualification,1900
+2019,female,"$10,000 to $10,999",degree,17700
+2019,female,"$11,000 to $11,999",primary and below,0
+2019,female,"$11,000 to $11,999",lower secondary,0
+2019,female,"$11,000 to $11,999",secondary,300
+2019,female,"$11,000 to $11,999",post-secondary (non-tertiary),200
+2019,female,"$11,000 to $11,999",diploma and professional qualification,1500
+2019,female,"$11,000 to $11,999",degree,10100
+2019,female,"$12,000 and over",primary and below,100
+2019,female,"$12,000 and over",lower secondary,100
+2019,female,"$12,000 and over",secondary,2200
+2019,female,"$12,000 and over",post-secondary (non-tertiary),1100
+2019,female,"$12,000 and over",diploma and professional qualification,4600
+2019,female,"$12,000 and over",degree,44300
+2020,male,Under $500,primary and below,4200
+2020,male,Under $500,lower secondary,2200
+2020,male,Under $500,secondary,4600
+2020,male,Under $500,post-secondary (non-tertiary),2900
+2020,male,Under $500,diploma and professional qualification,3100
+2020,male,Under $500,degree,1900
+2020,male,$500 to $999,primary and below,9500
+2020,male,$500 to $999,lower secondary,6700
+2020,male,$500 to $999,secondary,11400
+2020,male,$500 to $999,post-secondary (non-tertiary),6800
+2020,male,$500 to $999,diploma and professional qualification,6600
+2020,male,$500 to $999,degree,4200
+2020,male,"$1,000 to $1,499",primary and below,30400
+2020,male,"$1,000 to $1,499",lower secondary,14300
+2020,male,"$1,000 to $1,499",secondary,20500
+2020,male,"$1,000 to $1,499",post-secondary (non-tertiary),12100
+2020,male,"$1,000 to $1,499",diploma and professional qualification,9300
+2020,male,"$1,000 to $1,499",degree,7100
+2020,male,"$1,500 to $1,999",primary and below,19500
+2020,male,"$1,500 to $1,999",lower secondary,12500
+2020,male,"$1,500 to $1,999",secondary,19900
+2020,male,"$1,500 to $1,999",post-secondary (non-tertiary),18600
+2020,male,"$1,500 to $1,999",diploma and professional qualification,11000
+2020,male,"$1,500 to $1,999",degree,5700
+2020,male,"$2,000 to $2,499",primary and below,17500
+2020,male,"$2,000 to $2,499",lower secondary,10500
+2020,male,"$2,000 to $2,499",secondary,21000
+2020,male,"$2,000 to $2,499",post-secondary (non-tertiary),21000
+2020,male,"$2,000 to $2,499",diploma and professional qualification,18500
+2020,male,"$2,000 to $2,499",degree,10400
+2020,male,"$2,500 to $2,999",primary and below,8500
+2020,male,"$2,500 to $2,999",lower secondary,6300
+2020,male,"$2,500 to $2,999",secondary,17600
+2020,male,"$2,500 to $2,999",post-secondary (non-tertiary),16900
+2020,male,"$2,500 to $2,999",diploma and professional qualification,20600
+2020,male,"$2,500 to $2,999",degree,12100
+2020,male,"$3,000 to $3,999",primary and below,10400
+2020,male,"$3,000 to $3,999",lower secondary,10400
+2020,male,"$3,000 to $3,999",secondary,28500
+2020,male,"$3,000 to $3,999",post-secondary (non-tertiary),26500
+2020,male,"$3,000 to $3,999",diploma and professional qualification,42500
+2020,male,"$3,000 to $3,999",degree,40800
+2020,male,"$4,000 to $4,999",primary and below,3700
+2020,male,"$4,000 to $4,999",lower secondary,3900
+2020,male,"$4,000 to $4,999",secondary,15600
+2020,male,"$4,000 to $4,999",post-secondary (non-tertiary),13900
+2020,male,"$4,000 to $4,999",diploma and professional qualification,31300
+2020,male,"$4,000 to $4,999",degree,48700
+2020,male,"$5,000 to $5,999",primary and below,2300
+2020,male,"$5,000 to $5,999",lower secondary,2500
+2020,male,"$5,000 to $5,999",secondary,10300
+2020,male,"$5,000 to $5,999",post-secondary (non-tertiary),7500
+2020,male,"$5,000 to $5,999",diploma and professional qualification,24200
+2020,male,"$5,000 to $5,999",degree,48100
+2020,male,"$6,000 to $6,999",primary and below,600
+2020,male,"$6,000 to $6,999",lower secondary,1100
+2020,male,"$6,000 to $6,999",secondary,5500
+2020,male,"$6,000 to $6,999",post-secondary (non-tertiary),3800
+2020,male,"$6,000 to $6,999",diploma and professional qualification,14000
+2020,male,"$6,000 to $6,999",degree,36300
+2020,male,"$7,000 to $7,999",primary and below,600
+2020,male,"$7,000 to $7,999",lower secondary,500
+2020,male,"$7,000 to $7,999",secondary,3700
+2020,male,"$7,000 to $7,999",post-secondary (non-tertiary),2500
+2020,male,"$7,000 to $7,999",diploma and professional qualification,11000
+2020,male,"$7,000 to $7,999",degree,34900
+2020,male,"$8,000 to $8,999",primary and below,700
+2020,male,"$8,000 to $8,999",lower secondary,600
+2020,male,"$8,000 to $8,999",secondary,2600
+2020,male,"$8,000 to $8,999",post-secondary (non-tertiary),1500
+2020,male,"$8,000 to $8,999",diploma and professional qualification,6900
+2020,male,"$8,000 to $8,999",degree,33400
+2020,male,"$9,000 to $9,999",primary and below,500
+2020,male,"$9,000 to $9,999",lower secondary,100
+2020,male,"$9,000 to $9,999",secondary,1400
+2020,male,"$9,000 to $9,999",post-secondary (non-tertiary),700
+2020,male,"$9,000 to $9,999",diploma and professional qualification,4700
+2020,male,"$9,000 to $9,999",degree,22400
+2020,male,"$10,000 to $10,999",primary and below,300
+2020,male,"$10,000 to $10,999",lower secondary,300
+2020,male,"$10,000 to $10,999",secondary,1400
+2020,male,"$10,000 to $10,999",post-secondary (non-tertiary),1100
+2020,male,"$10,000 to $10,999",diploma and professional qualification,3800
+2020,male,"$10,000 to $10,999",degree,28900
+2020,male,"$11,000 to $11,999",primary and below,100
+2020,male,"$11,000 to $11,999",lower secondary,100
+2020,male,"$11,000 to $11,999",secondary,200
+2020,male,"$11,000 to $11,999",post-secondary (non-tertiary),300
+2020,male,"$11,000 to $11,999",diploma and professional qualification,2100
+2020,male,"$11,000 to $11,999",degree,15700
+2020,male,"$12,000 and over",primary and below,400
+2020,male,"$12,000 and over",lower secondary,700
+2020,male,"$12,000 and over",secondary,3200
+2020,male,"$12,000 and over",post-secondary (non-tertiary),2200
+2020,male,"$12,000 and over",diploma and professional qualification,8200
+2020,male,"$12,000 and over",degree,100500
+2020,female,Under $500,primary and below,7400
+2020,female,Under $500,lower secondary,2400
+2020,female,Under $500,secondary,6600
+2020,female,Under $500,post-secondary (non-tertiary),3900
+2020,female,Under $500,diploma and professional qualification,4500
+2020,female,Under $500,degree,3800
+2020,female,$500 to $999,primary and below,18700
+2020,female,$500 to $999,lower secondary,6000
+2020,female,$500 to $999,secondary,15200
+2020,female,$500 to $999,post-secondary (non-tertiary),8300
+2020,female,$500 to $999,diploma and professional qualification,6300
+2020,female,$500 to $999,degree,6100
+2020,female,"$1,000 to $1,499",primary and below,35800
+2020,female,"$1,000 to $1,499",lower secondary,11200
+2020,female,"$1,000 to $1,499",secondary,25200
+2020,female,"$1,000 to $1,499",post-secondary (non-tertiary),14400
+2020,female,"$1,000 to $1,499",diploma and professional qualification,12500
+2020,female,"$1,000 to $1,499",degree,9200
+2020,female,"$1,500 to $1,999",primary and below,14700
+2020,female,"$1,500 to $1,999",lower secondary,9100
+2020,female,"$1,500 to $1,999",secondary,23600
+2020,female,"$1,500 to $1,999",post-secondary (non-tertiary),15600
+2020,female,"$1,500 to $1,999",diploma and professional qualification,13400
+2020,female,"$1,500 to $1,999",degree,8300
+2020,female,"$2,000 to $2,499",primary and below,7400
+2020,female,"$2,000 to $2,499",lower secondary,6200
+2020,female,"$2,000 to $2,499",secondary,23300
+2020,female,"$2,000 to $2,499",post-secondary (non-tertiary),11800
+2020,female,"$2,000 to $2,499",diploma and professional qualification,23800
+2020,female,"$2,000 to $2,499",degree,16100
+2020,female,"$2,500 to $2,999",primary and below,2400
+2020,female,"$2,500 to $2,999",lower secondary,3000
+2020,female,"$2,500 to $2,999",secondary,17400
+2020,female,"$2,500 to $2,999",post-secondary (non-tertiary),8900
+2020,female,"$2,500 to $2,999",diploma and professional qualification,23200
+2020,female,"$2,500 to $2,999",degree,20100
+2020,female,"$3,000 to $3,999",primary and below,2400
+2020,female,"$3,000 to $3,999",lower secondary,3800
+2020,female,"$3,000 to $3,999",secondary,26000
+2020,female,"$3,000 to $3,999",post-secondary (non-tertiary),13300
+2020,female,"$3,000 to $3,999",diploma and professional qualification,41200
+2020,female,"$3,000 to $3,999",degree,67800
+2020,female,"$4,000 to $4,999",primary and below,600
+2020,female,"$4,000 to $4,999",lower secondary,800
+2020,female,"$4,000 to $4,999",secondary,14700
+2020,female,"$4,000 to $4,999",post-secondary (non-tertiary),6600
+2020,female,"$4,000 to $4,999",diploma and professional qualification,25800
+2020,female,"$4,000 to $4,999",degree,60500
+2020,female,"$5,000 to $5,999",primary and below,300
+2020,female,"$5,000 to $5,999",lower secondary,800
+2020,female,"$5,000 to $5,999",secondary,7400
+2020,female,"$5,000 to $5,999",post-secondary (non-tertiary),5000
+2020,female,"$5,000 to $5,999",diploma and professional qualification,17000
+2020,female,"$5,000 to $5,999",degree,54100
+2020,female,"$6,000 to $6,999",primary and below,200
+2020,female,"$6,000 to $6,999",lower secondary,200
+2020,female,"$6,000 to $6,999",secondary,3500
+2020,female,"$6,000 to $6,999",post-secondary (non-tertiary),2100
+2020,female,"$6,000 to $6,999",diploma and professional qualification,8700
+2020,female,"$6,000 to $6,999",degree,33800
+2020,female,"$7,000 to $7,999",primary and below,100
+2020,female,"$7,000 to $7,999",lower secondary,200
+2020,female,"$7,000 to $7,999",secondary,2200
+2020,female,"$7,000 to $7,999",post-secondary (non-tertiary),1400
+2020,female,"$7,000 to $7,999",diploma and professional qualification,6800
+2020,female,"$7,000 to $7,999",degree,28500
+2020,female,"$8,000 to $8,999",primary and below,200
+2020,female,"$8,000 to $8,999",lower secondary,100
+2020,female,"$8,000 to $8,999",secondary,1400
+2020,female,"$8,000 to $8,999",post-secondary (non-tertiary),700
+2020,female,"$8,000 to $8,999",diploma and professional qualification,4300
+2020,female,"$8,000 to $8,999",degree,24500
+2020,female,"$9,000 to $9,999",primary and below,0
+2020,female,"$9,000 to $9,999",lower secondary,100
+2020,female,"$9,000 to $9,999",secondary,700
+2020,female,"$9,000 to $9,999",post-secondary (non-tertiary),600
+2020,female,"$9,000 to $9,999",diploma and professional qualification,2700
+2020,female,"$9,000 to $9,999",degree,17300
+2020,female,"$10,000 to $10,999",primary and below,200
+2020,female,"$10,000 to $10,999",lower secondary,100
+2020,female,"$10,000 to $10,999",secondary,1200
+2020,female,"$10,000 to $10,999",post-secondary (non-tertiary),600
+2020,female,"$10,000 to $10,999",diploma and professional qualification,1800
+2020,female,"$10,000 to $10,999",degree,17900
+2020,female,"$11,000 to $11,999",primary and below,0
+2020,female,"$11,000 to $11,999",lower secondary,0
+2020,female,"$11,000 to $11,999",secondary,500
+2020,female,"$11,000 to $11,999",post-secondary (non-tertiary),300
+2020,female,"$11,000 to $11,999",diploma and professional qualification,1400
+2020,female,"$11,000 to $11,999",degree,11400
+2020,female,"$12,000 and over",primary and below,100
+2020,female,"$12,000 and over",lower secondary,100
+2020,female,"$12,000 and over",secondary,1500
+2020,female,"$12,000 and over",post-secondary (non-tertiary),700
+2020,female,"$12,000 and over",diploma and professional qualification,4400
+2020,female,"$12,000 and over",degree,48500
+2021,male,Under $500,primary and below,2500
+2021,male,Under $500,lower secondary,1800
+2021,male,Under $500,secondary,5200
+2021,male,Under $500,post-secondary (non-tertiary),3700
+2021,male,Under $500,diploma and professional qualification,3100
+2021,male,Under $500,degree,1900
+2021,male,$500 to $999,primary and below,9300
+2021,male,$500 to $999,lower secondary,5100
+2021,male,$500 to $999,secondary,10700
+2021,male,$500 to $999,post-secondary (non-tertiary),5700
+2021,male,$500 to $999,diploma and professional qualification,5000
+2021,male,$500 to $999,degree,3000
+2021,male,"$1,000 to $1,499",primary and below,27500
+2021,male,"$1,000 to $1,499",lower secondary,12600
+2021,male,"$1,000 to $1,499",secondary,18400
+2021,male,"$1,000 to $1,499",post-secondary (non-tertiary),12800
+2021,male,"$1,000 to $1,499",diploma and professional qualification,9500
+2021,male,"$1,000 to $1,499",degree,6700
+2021,male,"$1,500 to $1,999",primary and below,19700
+2021,male,"$1,500 to $1,999",lower secondary,11200
+2021,male,"$1,500 to $1,999",secondary,16700
+2021,male,"$1,500 to $1,999",post-secondary (non-tertiary),15500
+2021,male,"$1,500 to $1,999",diploma and professional qualification,10400
+2021,male,"$1,500 to $1,999",degree,7000
+2021,male,"$2,000 to $2,499",primary and below,16900
+2021,male,"$2,000 to $2,499",lower secondary,10900
+2021,male,"$2,000 to $2,499",secondary,21000
+2021,male,"$2,000 to $2,499",post-secondary (non-tertiary),19400
+2021,male,"$2,000 to $2,499",diploma and professional qualification,18600
+2021,male,"$2,000 to $2,499",degree,10400
+2021,male,"$2,500 to $2,999",primary and below,9800
+2021,male,"$2,500 to $2,999",lower secondary,7300
+2021,male,"$2,500 to $2,999",secondary,19600
+2021,male,"$2,500 to $2,999",post-secondary (non-tertiary),18800
+2021,male,"$2,500 to $2,999",diploma and professional qualification,25900
+2021,male,"$2,500 to $2,999",degree,12400
+2021,male,"$3,000 to $3,999",primary and below,9500
+2021,male,"$3,000 to $3,999",lower secondary,9800
+2021,male,"$3,000 to $3,999",secondary,28600
+2021,male,"$3,000 to $3,999",post-secondary (non-tertiary),28400
+2021,male,"$3,000 to $3,999",diploma and professional qualification,46200
+2021,male,"$3,000 to $3,999",degree,44100
+2021,male,"$4,000 to $4,999",primary and below,3100
+2021,male,"$4,000 to $4,999",lower secondary,4000
+2021,male,"$4,000 to $4,999",secondary,15800
+2021,male,"$4,000 to $4,999",post-secondary (non-tertiary),13400
+2021,male,"$4,000 to $4,999",diploma and professional qualification,34900
+2021,male,"$4,000 to $4,999",degree,52600
+2021,male,"$5,000 to $5,999",primary and below,1300
+2021,male,"$5,000 to $5,999",lower secondary,2300
+2021,male,"$5,000 to $5,999",secondary,7600
+2021,male,"$5,000 to $5,999",post-secondary (non-tertiary),6900
+2021,male,"$5,000 to $5,999",diploma and professional qualification,24000
+2021,male,"$5,000 to $5,999",degree,56100
+2021,male,"$6,000 to $6,999",primary and below,900
+2021,male,"$6,000 to $6,999",lower secondary,1600
+2021,male,"$6,000 to $6,999",secondary,4400
+2021,male,"$6,000 to $6,999",post-secondary (non-tertiary),4200
+2021,male,"$6,000 to $6,999",diploma and professional qualification,16500
+2021,male,"$6,000 to $6,999",degree,41600
+2021,male,"$7,000 to $7,999",primary and below,800
+2021,male,"$7,000 to $7,999",lower secondary,600
+2021,male,"$7,000 to $7,999",secondary,2200
+2021,male,"$7,000 to $7,999",post-secondary (non-tertiary),1800
+2021,male,"$7,000 to $7,999",diploma and professional qualification,9400
+2021,male,"$7,000 to $7,999",degree,39200
+2021,male,"$8,000 to $8,999",primary and below,600
+2021,male,"$8,000 to $8,999",lower secondary,300
+2021,male,"$8,000 to $8,999",secondary,2200
+2021,male,"$8,000 to $8,999",post-secondary (non-tertiary),2400
+2021,male,"$8,000 to $8,999",diploma and professional qualification,6000
+2021,male,"$8,000 to $8,999",degree,34600
+2021,male,"$9,000 to $9,999",primary and below,200
+2021,male,"$9,000 to $9,999",lower secondary,400
+2021,male,"$9,000 to $9,999",secondary,1300
+2021,male,"$9,000 to $9,999",post-secondary (non-tertiary),1100
+2021,male,"$9,000 to $9,999",diploma and professional qualification,3000
+2021,male,"$9,000 to $9,999",degree,24400
+2021,male,"$10,000 to $10,999",primary and below,600
+2021,male,"$10,000 to $10,999",lower secondary,200
+2021,male,"$10,000 to $10,999",secondary,1700
+2021,male,"$10,000 to $10,999",post-secondary (non-tertiary),1800
+2021,male,"$10,000 to $10,999",diploma and professional qualification,5100
+2021,male,"$10,000 to $10,999",degree,29700
+2021,male,"$11,000 to $11,999",primary and below,100
+2021,male,"$11,000 to $11,999",lower secondary,100
+2021,male,"$11,000 to $11,999",secondary,600
+2021,male,"$11,000 to $11,999",post-secondary (non-tertiary),200
+2021,male,"$11,000 to $11,999",diploma and professional qualification,1700
+2021,male,"$11,000 to $11,999",degree,15800
+2021,male,"$12,000 and over",primary and below,300
+2021,male,"$12,000 and over",lower secondary,400
+2021,male,"$12,000 and over",secondary,2800
+2021,male,"$12,000 and over",post-secondary (non-tertiary),2400
+2021,male,"$12,000 and over",diploma and professional qualification,10200
+2021,male,"$12,000 and over",degree,104100
+2021,female,Under $500,primary and below,6100
+2021,female,Under $500,lower secondary,2100
+2021,female,Under $500,secondary,7200
+2021,female,Under $500,post-secondary (non-tertiary),4600
+2021,female,Under $500,diploma and professional qualification,4600
+2021,female,Under $500,degree,3700
+2021,female,$500 to $999,primary and below,14300
+2021,female,$500 to $999,lower secondary,6200
+2021,female,$500 to $999,secondary,13300
+2021,female,$500 to $999,post-secondary (non-tertiary),9900
+2021,female,$500 to $999,diploma and professional qualification,8100
+2021,female,$500 to $999,degree,5400
+2021,female,"$1,000 to $1,499",primary and below,28900
+2021,female,"$1,000 to $1,499",lower secondary,11700
+2021,female,"$1,000 to $1,499",secondary,24500
+2021,female,"$1,000 to $1,499",post-secondary (non-tertiary),16600
+2021,female,"$1,000 to $1,499",diploma and professional qualification,12700
+2021,female,"$1,000 to $1,499",degree,9400
+2021,female,"$1,500 to $1,999",primary and below,15500
+2021,female,"$1,500 to $1,999",lower secondary,7900
+2021,female,"$1,500 to $1,999",secondary,20900
+2021,female,"$1,500 to $1,999",post-secondary (non-tertiary),13800
+2021,female,"$1,500 to $1,999",diploma and professional qualification,12800
+2021,female,"$1,500 to $1,999",degree,10500
+2021,female,"$2,000 to $2,499",primary and below,7900
+2021,female,"$2,000 to $2,499",lower secondary,5900
+2021,female,"$2,000 to $2,499",secondary,21400
+2021,female,"$2,000 to $2,499",post-secondary (non-tertiary),13900
+2021,female,"$2,000 to $2,499",diploma and professional qualification,24000
+2021,female,"$2,000 to $2,499",degree,14500
+2021,female,"$2,500 to $2,999",primary and below,2900
+2021,female,"$2,500 to $2,999",lower secondary,4600
+2021,female,"$2,500 to $2,999",secondary,17300
+2021,female,"$2,500 to $2,999",post-secondary (non-tertiary),11200
+2021,female,"$2,500 to $2,999",diploma and professional qualification,29800
+2021,female,"$2,500 to $2,999",degree,22600
+2021,female,"$3,000 to $3,999",primary and below,2500
+2021,female,"$3,000 to $3,999",lower secondary,4600
+2021,female,"$3,000 to $3,999",secondary,27300
+2021,female,"$3,000 to $3,999",post-secondary (non-tertiary),13800
+2021,female,"$3,000 to $3,999",diploma and professional qualification,46300
+2021,female,"$3,000 to $3,999",degree,69400
+2021,female,"$4,000 to $4,999",primary and below,1000
+2021,female,"$4,000 to $4,999",lower secondary,600
+2021,female,"$4,000 to $4,999",secondary,12500
+2021,female,"$4,000 to $4,999",post-secondary (non-tertiary),7300
+2021,female,"$4,000 to $4,999",diploma and professional qualification,25800
+2021,female,"$4,000 to $4,999",degree,66000
+2021,female,"$5,000 to $5,999",primary and below,200
+2021,female,"$5,000 to $5,999",lower secondary,600
+2021,female,"$5,000 to $5,999",secondary,7900
+2021,female,"$5,000 to $5,999",post-secondary (non-tertiary),4800
+2021,female,"$5,000 to $5,999",diploma and professional qualification,19200
+2021,female,"$5,000 to $5,999",degree,56100
+2021,female,"$6,000 to $6,999",primary and below,300
+2021,female,"$6,000 to $6,999",lower secondary,500
+2021,female,"$6,000 to $6,999",secondary,4500
+2021,female,"$6,000 to $6,999",post-secondary (non-tertiary),1700
+2021,female,"$6,000 to $6,999",diploma and professional qualification,9800
+2021,female,"$6,000 to $6,999",degree,39000
+2021,female,"$7,000 to $7,999",primary and below,100
+2021,female,"$7,000 to $7,999",lower secondary,300
+2021,female,"$7,000 to $7,999",secondary,2000
+2021,female,"$7,000 to $7,999",post-secondary (non-tertiary),1200
+2021,female,"$7,000 to $7,999",diploma and professional qualification,5700
+2021,female,"$7,000 to $7,999",degree,35900
+2021,female,"$8,000 to $8,999",primary and below,100
+2021,female,"$8,000 to $8,999",lower secondary,200
+2021,female,"$8,000 to $8,999",secondary,1500
+2021,female,"$8,000 to $8,999",post-secondary (non-tertiary),1300
+2021,female,"$8,000 to $8,999",diploma and professional qualification,5000
+2021,female,"$8,000 to $8,999",degree,28400
+2021,female,"$9,000 to $9,999",primary and below,100
+2021,female,"$9,000 to $9,999",lower secondary,100
+2021,female,"$9,000 to $9,999",secondary,500
+2021,female,"$9,000 to $9,999",post-secondary (non-tertiary),300
+2021,female,"$9,000 to $9,999",diploma and professional qualification,2800
+2021,female,"$9,000 to $9,999",degree,18300
+2021,female,"$10,000 to $10,999",primary and below,100
+2021,female,"$10,000 to $10,999",lower secondary,100
+2021,female,"$10,000 to $10,999",secondary,1400
+2021,female,"$10,000 to $10,999",post-secondary (non-tertiary),800
+2021,female,"$10,000 to $10,999",diploma and professional qualification,2400
+2021,female,"$10,000 to $10,999",degree,18700
+2021,female,"$11,000 to $11,999",primary and below,100
+2021,female,"$11,000 to $11,999",lower secondary,100
+2021,female,"$11,000 to $11,999",secondary,400
+2021,female,"$11,000 to $11,999",post-secondary (non-tertiary),300
+2021,female,"$11,000 to $11,999",diploma and professional qualification,1100
+2021,female,"$11,000 to $11,999",degree,10800
+2021,female,"$12,000 and over",primary and below,100
+2021,female,"$12,000 and over",lower secondary,100
+2021,female,"$12,000 and over",secondary,1000
+2021,female,"$12,000 and over",post-secondary (non-tertiary),900
+2021,female,"$12,000 and over",diploma and professional qualification,4100
+2021,female,"$12,000 and over",degree,52200
+2022,male,Under $500,primary and below,1600
+2022,male,Under $500,lower secondary,900
+2022,male,Under $500,secondary,2800
+2022,male,Under $500,post-secondary (non-tertiary),2700
+2022,male,Under $500,diploma and professional qualification,1100
+2022,male,Under $500,degree,800
+2022,male,$500 to $999,primary and below,6700
+2022,male,$500 to $999,lower secondary,3000
+2022,male,$500 to $999,secondary,6900
+2022,male,$500 to $999,post-secondary (non-tertiary),5500
+2022,male,$500 to $999,diploma and professional qualification,4400
+2022,male,$500 to $999,degree,2000
+2022,male,"$1,000 to $1,499",primary and below,21800
+2022,male,"$1,000 to $1,499",lower secondary,8800
+2022,male,"$1,000 to $1,499",secondary,15500
+2022,male,"$1,000 to $1,499",post-secondary (non-tertiary),12900
+2022,male,"$1,000 to $1,499",diploma and professional qualification,7300
+2022,male,"$1,000 to $1,499",degree,4700
+2022,male,"$1,500 to $1,999",primary and below,23900
+2022,male,"$1,500 to $1,999",lower secondary,10600
+2022,male,"$1,500 to $1,999",secondary,22400
+2022,male,"$1,500 to $1,999",post-secondary (non-tertiary),15000
+2022,male,"$1,500 to $1,999",diploma and professional qualification,7800
+2022,male,"$1,500 to $1,999",degree,3800
+2022,male,"$2,000 to $2,499",primary and below,18600
+2022,male,"$2,000 to $2,499",lower secondary,10200
+2022,male,"$2,000 to $2,499",secondary,23400
+2022,male,"$2,000 to $2,499",post-secondary (non-tertiary),21200
+2022,male,"$2,000 to $2,499",diploma and professional qualification,15500
+2022,male,"$2,000 to $2,499",degree,7400
+2022,male,"$2,500 to $2,999",primary and below,9400
+2022,male,"$2,500 to $2,999",lower secondary,7800
+2022,male,"$2,500 to $2,999",secondary,17500
+2022,male,"$2,500 to $2,999",post-secondary (non-tertiary),16800
+2022,male,"$2,500 to $2,999",diploma and professional qualification,20400
+2022,male,"$2,500 to $2,999",degree,8700
+2022,male,"$3,000 to $3,999",primary and below,10800
+2022,male,"$3,000 to $3,999",lower secondary,10900
+2022,male,"$3,000 to $3,999",secondary,34400
+2022,male,"$3,000 to $3,999",post-secondary (non-tertiary),27100
+2022,male,"$3,000 to $3,999",diploma and professional qualification,45000
+2022,male,"$3,000 to $3,999",degree,37400
+2022,male,"$4,000 to $4,999",primary and below,2800
+2022,male,"$4,000 to $4,999",lower secondary,5900
+2022,male,"$4,000 to $4,999",secondary,18200
+2022,male,"$4,000 to $4,999",post-secondary (non-tertiary),14500
+2022,male,"$4,000 to $4,999",diploma and professional qualification,38500
+2022,male,"$4,000 to $4,999",degree,46000
+2022,male,"$5,000 to $5,999",primary and below,2000
+2022,male,"$5,000 to $5,999",lower secondary,3800
+2022,male,"$5,000 to $5,999",secondary,11300
+2022,male,"$5,000 to $5,999",post-secondary (non-tertiary),10400
+2022,male,"$5,000 to $5,999",diploma and professional qualification,30400
+2022,male,"$5,000 to $5,999",degree,57600
+2022,male,"$6,000 to $6,999",primary and below,900
+2022,male,"$6,000 to $6,999",lower secondary,1400
+2022,male,"$6,000 to $6,999",secondary,5400
+2022,male,"$6,000 to $6,999",post-secondary (non-tertiary),3700
+2022,male,"$6,000 to $6,999",diploma and professional qualification,15500
+2022,male,"$6,000 to $6,999",degree,39700
+2022,male,"$7,000 to $7,999",primary and below,600
+2022,male,"$7,000 to $7,999",lower secondary,1000
+2022,male,"$7,000 to $7,999",secondary,3500
+2022,male,"$7,000 to $7,999",post-secondary (non-tertiary),3100
+2022,male,"$7,000 to $7,999",diploma and professional qualification,11000
+2022,male,"$7,000 to $7,999",degree,40100
+2022,male,"$8,000 to $8,999",primary and below,500
+2022,male,"$8,000 to $8,999",lower secondary,700
+2022,male,"$8,000 to $8,999",secondary,3000
+2022,male,"$8,000 to $8,999",post-secondary (non-tertiary),2200
+2022,male,"$8,000 to $8,999",diploma and professional qualification,10900
+2022,male,"$8,000 to $8,999",degree,41200
+2022,male,"$9,000 to $9,999",primary and below,300
+2022,male,"$9,000 to $9,999",lower secondary,400
+2022,male,"$9,000 to $9,999",secondary,1200
+2022,male,"$9,000 to $9,999",post-secondary (non-tertiary),900
+2022,male,"$9,000 to $9,999",diploma and professional qualification,4700
+2022,male,"$9,000 to $9,999",degree,29900
+2022,male,"$10,000 to $10,999",primary and below,400
+2022,male,"$10,000 to $10,999",lower secondary,600
+2022,male,"$10,000 to $10,999",secondary,2300
+2022,male,"$10,000 to $10,999",post-secondary (non-tertiary),1000
+2022,male,"$10,000 to $10,999",diploma and professional qualification,6100
+2022,male,"$10,000 to $10,999",degree,35900
+2022,male,"$11,000 to $11,999",primary and below,200
+2022,male,"$11,000 to $11,999",lower secondary,100
+2022,male,"$11,000 to $11,999",secondary,400
+2022,male,"$11,000 to $11,999",post-secondary (non-tertiary),400
+2022,male,"$11,000 to $11,999",diploma and professional qualification,3600
+2022,male,"$11,000 to $11,999",degree,19700
+2022,male,"$12,000 and over",primary and below,300
+2022,male,"$12,000 and over",lower secondary,600
+2022,male,"$12,000 and over",secondary,2800
+2022,male,"$12,000 and over",post-secondary (non-tertiary),3300
+2022,male,"$12,000 and over",diploma and professional qualification,11200
+2022,male,"$12,000 and over",degree,131900
+2022,female,Under $500,primary and below,4200
+2022,female,Under $500,lower secondary,1800
+2022,female,Under $500,secondary,4000
+2022,female,Under $500,post-secondary (non-tertiary),4700
+2022,female,Under $500,diploma and professional qualification,2300
+2022,female,Under $500,degree,1700
+2022,female,$500 to $999,primary and below,14200
+2022,female,$500 to $999,lower secondary,4700
+2022,female,$500 to $999,secondary,9900
+2022,female,$500 to $999,post-secondary (non-tertiary),9400
+2022,female,$500 to $999,diploma and professional qualification,5600
+2022,female,$500 to $999,degree,5000
+2022,female,"$1,000 to $1,499",primary and below,25100
+2022,female,"$1,000 to $1,499",lower secondary,8500
+2022,female,"$1,000 to $1,499",secondary,18200
+2022,female,"$1,000 to $1,499",post-secondary (non-tertiary),13900
+2022,female,"$1,000 to $1,499",diploma and professional qualification,10500
+2022,female,"$1,000 to $1,499",degree,9300
+2022,female,"$1,500 to $1,999",primary and below,22700
+2022,female,"$1,500 to $1,999",lower secondary,9500
+2022,female,"$1,500 to $1,999",secondary,22800
+2022,female,"$1,500 to $1,999",post-secondary (non-tertiary),18700
+2022,female,"$1,500 to $1,999",diploma and professional qualification,11700
+2022,female,"$1,500 to $1,999",degree,6700
+2022,female,"$2,000 to $2,499",primary and below,8800
+2022,female,"$2,000 to $2,499",lower secondary,7500
+2022,female,"$2,000 to $2,499",secondary,23500
+2022,female,"$2,000 to $2,499",post-secondary (non-tertiary),14200
+2022,female,"$2,000 to $2,499",diploma and professional qualification,20200
+2022,female,"$2,000 to $2,499",degree,11300
+2022,female,"$2,500 to $2,999",primary and below,2800
+2022,female,"$2,500 to $2,999",lower secondary,4900
+2022,female,"$2,500 to $2,999",secondary,14000
+2022,female,"$2,500 to $2,999",post-secondary (non-tertiary),10300
+2022,female,"$2,500 to $2,999",diploma and professional qualification,25300
+2022,female,"$2,500 to $2,999",degree,16100
+2022,female,"$3,000 to $3,999",primary and below,2500
+2022,female,"$3,000 to $3,999",lower secondary,6300
+2022,female,"$3,000 to $3,999",secondary,26200
+2022,female,"$3,000 to $3,999",post-secondary (non-tertiary),16100
+2022,female,"$3,000 to $3,999",diploma and professional qualification,52200
+2022,female,"$3,000 to $3,999",degree,59200
+2022,female,"$4,000 to $4,999",primary and below,800
+2022,female,"$4,000 to $4,999",lower secondary,3100
+2022,female,"$4,000 to $4,999",secondary,14400
+2022,female,"$4,000 to $4,999",post-secondary (non-tertiary),8600
+2022,female,"$4,000 to $4,999",diploma and professional qualification,34900
+2022,female,"$4,000 to $4,999",degree,61800
+2022,female,"$5,000 to $5,999",primary and below,700
+2022,female,"$5,000 to $5,999",lower secondary,1400
+2022,female,"$5,000 to $5,999",secondary,7800
+2022,female,"$5,000 to $5,999",post-secondary (non-tertiary),5000
+2022,female,"$5,000 to $5,999",diploma and professional qualification,22600
+2022,female,"$5,000 to $5,999",degree,61700
+2022,female,"$6,000 to $6,999",primary and below,100
+2022,female,"$6,000 to $6,999",lower secondary,500
+2022,female,"$6,000 to $6,999",secondary,3500
+2022,female,"$6,000 to $6,999",post-secondary (non-tertiary),2100
+2022,female,"$6,000 to $6,999",diploma and professional qualification,10500
+2022,female,"$6,000 to $6,999",degree,41100
+2022,female,"$7,000 to $7,999",primary and below,100
+2022,female,"$7,000 to $7,999",lower secondary,600
+2022,female,"$7,000 to $7,999",secondary,2700
+2022,female,"$7,000 to $7,999",post-secondary (non-tertiary),1700
+2022,female,"$7,000 to $7,999",diploma and professional qualification,7500
+2022,female,"$7,000 to $7,999",degree,38800
+2022,female,"$8,000 to $8,999",primary and below,200
+2022,female,"$8,000 to $8,999",lower secondary,100
+2022,female,"$8,000 to $8,999",secondary,1800
+2022,female,"$8,000 to $8,999",post-secondary (non-tertiary),1100
+2022,female,"$8,000 to $8,999",diploma and professional qualification,7000
+2022,female,"$8,000 to $8,999",degree,32200
+2022,female,"$9,000 to $9,999",primary and below,100
+2022,female,"$9,000 to $9,999",lower secondary,0
+2022,female,"$9,000 to $9,999",secondary,600
+2022,female,"$9,000 to $9,999",post-secondary (non-tertiary),900
+2022,female,"$9,000 to $9,999",diploma and professional qualification,3200
+2022,female,"$9,000 to $9,999",degree,21200
+2022,female,"$10,000 to $10,999",primary and below,100
+2022,female,"$10,000 to $10,999",lower secondary,200
+2022,female,"$10,000 to $10,999",secondary,1300
+2022,female,"$10,000 to $10,999",post-secondary (non-tertiary),800
+2022,female,"$10,000 to $10,999",diploma and professional qualification,3800
+2022,female,"$10,000 to $10,999",degree,26400
+2022,female,"$11,000 to $11,999",primary and below,0
+2022,female,"$11,000 to $11,999",lower secondary,0
+2022,female,"$11,000 to $11,999",secondary,200
+2022,female,"$11,000 to $11,999",post-secondary (non-tertiary),100
+2022,female,"$11,000 to $11,999",diploma and professional qualification,1600
+2022,female,"$11,000 to $11,999",degree,13300
+2022,female,"$12,000 and over",primary and below,100
+2022,female,"$12,000 and over",lower secondary,400
+2022,female,"$12,000 and over",secondary,1400
+2022,female,"$12,000 and over",post-secondary (non-tertiary),1400
+2022,female,"$12,000 and over",diploma and professional qualification,6800
+2022,female,"$12,000 and over",degree,69200
+2023,male,Under $500,primary and below,1700
+2023,male,Under $500,lower secondary,1200
+2023,male,Under $500,secondary,2800
+2023,male,Under $500,post-secondary (non-tertiary),1400
+2023,male,Under $500,diploma and professional qualification,1100
+2023,male,Under $500,degree,900
+2023,male,$500 to $999,primary and below,6700
+2023,male,$500 to $999,lower secondary,2900
+2023,male,$500 to $999,secondary,6400
+2023,male,$500 to $999,post-secondary (non-tertiary),6100
+2023,male,$500 to $999,diploma and professional qualification,4300
+2023,male,$500 to $999,degree,2300
+2023,male,"$1,000 to $1,499",primary and below,20700
+2023,male,"$1,000 to $1,499",lower secondary,8300
+2023,male,"$1,000 to $1,499",secondary,14800
+2023,male,"$1,000 to $1,499",post-secondary (non-tertiary),14100
+2023,male,"$1,000 to $1,499",diploma and professional qualification,8800
+2023,male,"$1,000 to $1,499",degree,5700
+2023,male,"$1,500 to $1,999",primary and below,22100
+2023,male,"$1,500 to $1,999",lower secondary,10600
+2023,male,"$1,500 to $1,999",secondary,19300
+2023,male,"$1,500 to $1,999",post-secondary (non-tertiary),16800
+2023,male,"$1,500 to $1,999",diploma and professional qualification,8800
+2023,male,"$1,500 to $1,999",degree,6100
+2023,male,"$2,000 to $2,499",primary and below,15200
+2023,male,"$2,000 to $2,499",lower secondary,10000
+2023,male,"$2,000 to $2,499",secondary,23900
+2023,male,"$2,000 to $2,499",post-secondary (non-tertiary),19800
+2023,male,"$2,000 to $2,499",diploma and professional qualification,14900
+2023,male,"$2,000 to $2,499",degree,6500
+2023,male,"$2,500 to $2,999",primary and below,10100
+2023,male,"$2,500 to $2,999",lower secondary,5000
+2023,male,"$2,500 to $2,999",secondary,18000
+2023,male,"$2,500 to $2,999",post-secondary (non-tertiary),16700
+2023,male,"$2,500 to $2,999",diploma and professional qualification,17700
+2023,male,"$2,500 to $2,999",degree,8200
+2023,male,"$3,000 to $3,999",primary and below,10600
+2023,male,"$3,000 to $3,999",lower secondary,11900
+2023,male,"$3,000 to $3,999",secondary,33800
+2023,male,"$3,000 to $3,999",post-secondary (non-tertiary),28400
+2023,male,"$3,000 to $3,999",diploma and professional qualification,47700
+2023,male,"$3,000 to $3,999",degree,35400
+2023,male,"$4,000 to $4,999",primary and below,3900
+2023,male,"$4,000 to $4,999",lower secondary,5100
+2023,male,"$4,000 to $4,999",secondary,17100
+2023,male,"$4,000 to $4,999",post-secondary (non-tertiary),15800
+2023,male,"$4,000 to $4,999",diploma and professional qualification,35200
+2023,male,"$4,000 to $4,999",degree,47000
+2023,male,"$5,000 to $5,999",primary and below,1800
+2023,male,"$5,000 to $5,999",lower secondary,2800
+2023,male,"$5,000 to $5,999",secondary,12500
+2023,male,"$5,000 to $5,999",post-secondary (non-tertiary),8000
+2023,male,"$5,000 to $5,999",diploma and professional qualification,31400
+2023,male,"$5,000 to $5,999",degree,53900
+2023,male,"$6,000 to $6,999",primary and below,600
+2023,male,"$6,000 to $6,999",lower secondary,1500
+2023,male,"$6,000 to $6,999",secondary,5700
+2023,male,"$6,000 to $6,999",post-secondary (non-tertiary),3700
+2023,male,"$6,000 to $6,999",diploma and professional qualification,14800
+2023,male,"$6,000 to $6,999",degree,39000
+2023,male,"$7,000 to $7,999",primary and below,800
+2023,male,"$7,000 to $7,999",lower secondary,1500
+2023,male,"$7,000 to $7,999",secondary,3800
+2023,male,"$7,000 to $7,999",post-secondary (non-tertiary),2100
+2023,male,"$7,000 to $7,999",diploma and professional qualification,12800
+2023,male,"$7,000 to $7,999",degree,42100
+2023,male,"$8,000 to $8,999",primary and below,800
+2023,male,"$8,000 to $8,999",lower secondary,600
+2023,male,"$8,000 to $8,999",secondary,2600
+2023,male,"$8,000 to $8,999",post-secondary (non-tertiary),2100
+2023,male,"$8,000 to $8,999",diploma and professional qualification,8600
+2023,male,"$8,000 to $8,999",degree,40000
+2023,male,"$9,000 to $9,999",primary and below,300
+2023,male,"$9,000 to $9,999",lower secondary,300
+2023,male,"$9,000 to $9,999",secondary,1200
+2023,male,"$9,000 to $9,999",post-secondary (non-tertiary),1100
+2023,male,"$9,000 to $9,999",diploma and professional qualification,4900
+2023,male,"$9,000 to $9,999",degree,30400
+2023,male,"$10,000 to $10,999",primary and below,400
+2023,male,"$10,000 to $10,999",lower secondary,300
+2023,male,"$10,000 to $10,999",secondary,1800
+2023,male,"$10,000 to $10,999",post-secondary (non-tertiary),1000
+2023,male,"$10,000 to $10,999",diploma and professional qualification,6600
+2023,male,"$10,000 to $10,999",degree,38600
+2023,male,"$11,000 to $11,999",primary and below,100
+2023,male,"$11,000 to $11,999",lower secondary,200
+2023,male,"$11,000 to $11,999",secondary,500
+2023,male,"$11,000 to $11,999",post-secondary (non-tertiary),700
+2023,male,"$11,000 to $11,999",diploma and professional qualification,2500
+2023,male,"$11,000 to $11,999",degree,20300
+2023,male,"$12,000 and over",primary and below,800
+2023,male,"$12,000 and over",lower secondary,500
+2023,male,"$12,000 and over",secondary,2800
+2023,male,"$12,000 and over",post-secondary (non-tertiary),3200
+2023,male,"$12,000 and over",diploma and professional qualification,12400
+2023,male,"$12,000 and over",degree,127900
+2023,female,Under $500,primary and below,5000
+2023,female,Under $500,lower secondary,1100
+2023,female,Under $500,secondary,5400
+2023,female,Under $500,post-secondary (non-tertiary),4000
+2023,female,Under $500,diploma and professional qualification,3800
+2023,female,Under $500,degree,2100
+2023,female,$500 to $999,primary and below,12500
+2023,female,$500 to $999,lower secondary,5000
+2023,female,$500 to $999,secondary,11600
+2023,female,$500 to $999,post-secondary (non-tertiary),9600
+2023,female,$500 to $999,diploma and professional qualification,7400
+2023,female,$500 to $999,degree,4700
+2023,female,"$1,000 to $1,499",primary and below,23500
+2023,female,"$1,000 to $1,499",lower secondary,8900
+2023,female,"$1,000 to $1,499",secondary,17400
+2023,female,"$1,000 to $1,499",post-secondary (non-tertiary),14700
+2023,female,"$1,000 to $1,499",diploma and professional qualification,8900
+2023,female,"$1,000 to $1,499",degree,9300
+2023,female,"$1,500 to $1,999",primary and below,21300
+2023,female,"$1,500 to $1,999",lower secondary,9400
+2023,female,"$1,500 to $1,999",secondary,21000
+2023,female,"$1,500 to $1,999",post-secondary (non-tertiary),17400
+2023,female,"$1,500 to $1,999",diploma and professional qualification,12800
+2023,female,"$1,500 to $1,999",degree,8800
+2023,female,"$2,000 to $2,499",primary and below,10200
+2023,female,"$2,000 to $2,499",lower secondary,6500
+2023,female,"$2,000 to $2,499",secondary,19300
+2023,female,"$2,000 to $2,499",post-secondary (non-tertiary),15200
+2023,female,"$2,000 to $2,499",diploma and professional qualification,20300
+2023,female,"$2,000 to $2,499",degree,13100
+2023,female,"$2,500 to $2,999",primary and below,4200
+2023,female,"$2,500 to $2,999",lower secondary,3900
+2023,female,"$2,500 to $2,999",secondary,16400
+2023,female,"$2,500 to $2,999",post-secondary (non-tertiary),12100
+2023,female,"$2,500 to $2,999",diploma and professional qualification,21700
+2023,female,"$2,500 to $2,999",degree,13100
+2023,female,"$3,000 to $3,999",primary and below,2300
+2023,female,"$3,000 to $3,999",lower secondary,5900
+2023,female,"$3,000 to $3,999",secondary,24800
+2023,female,"$3,000 to $3,999",post-secondary (non-tertiary),16400
+2023,female,"$3,000 to $3,999",diploma and professional qualification,50900
+2023,female,"$3,000 to $3,999",degree,56400
+2023,female,"$4,000 to $4,999",primary and below,1000
+2023,female,"$4,000 to $4,999",lower secondary,2500
+2023,female,"$4,000 to $4,999",secondary,14200
+2023,female,"$4,000 to $4,999",post-secondary (non-tertiary),8100
+2023,female,"$4,000 to $4,999",diploma and professional qualification,34800
+2023,female,"$4,000 to $4,999",degree,71600
+2023,female,"$5,000 to $5,999",primary and below,700
+2023,female,"$5,000 to $5,999",lower secondary,1600
+2023,female,"$5,000 to $5,999",secondary,8400
+2023,female,"$5,000 to $5,999",post-secondary (non-tertiary),4100
+2023,female,"$5,000 to $5,999",diploma and professional qualification,23000
+2023,female,"$5,000 to $5,999",degree,65400
+2023,female,"$6,000 to $6,999",primary and below,200
+2023,female,"$6,000 to $6,999",lower secondary,700
+2023,female,"$6,000 to $6,999",secondary,3500
+2023,female,"$6,000 to $6,999",post-secondary (non-tertiary),2100
+2023,female,"$6,000 to $6,999",diploma and professional qualification,13700
+2023,female,"$6,000 to $6,999",degree,44300
+2023,female,"$7,000 to $7,999",primary and below,400
+2023,female,"$7,000 to $7,999",lower secondary,500
+2023,female,"$7,000 to $7,999",secondary,2100
+2023,female,"$7,000 to $7,999",post-secondary (non-tertiary),2500
+2023,female,"$7,000 to $7,999",diploma and professional qualification,8800
+2023,female,"$7,000 to $7,999",degree,39600
+2023,female,"$8,000 to $8,999",primary and below,100
+2023,female,"$8,000 to $8,999",lower secondary,400
+2023,female,"$8,000 to $8,999",secondary,1400
+2023,female,"$8,000 to $8,999",post-secondary (non-tertiary),1200
+2023,female,"$8,000 to $8,999",diploma and professional qualification,5500
+2023,female,"$8,000 to $8,999",degree,33800
+2023,female,"$9,000 to $9,999",primary and below,100
+2023,female,"$9,000 to $9,999",lower secondary,100
+2023,female,"$9,000 to $9,999",secondary,700
+2023,female,"$9,000 to $9,999",post-secondary (non-tertiary),700
+2023,female,"$9,000 to $9,999",diploma and professional qualification,3800
+2023,female,"$9,000 to $9,999",degree,23200
+2023,female,"$10,000 to $10,999",primary and below,100
+2023,female,"$10,000 to $10,999",lower secondary,300
+2023,female,"$10,000 to $10,999",secondary,800
+2023,female,"$10,000 to $10,999",post-secondary (non-tertiary),700
+2023,female,"$10,000 to $10,999",diploma and professional qualification,3000
+2023,female,"$10,000 to $10,999",degree,26600
+2023,female,"$11,000 to $11,999",primary and below,100
+2023,female,"$11,000 to $11,999",lower secondary,0
+2023,female,"$11,000 to $11,999",secondary,300
+2023,female,"$11,000 to $11,999",post-secondary (non-tertiary),300
+2023,female,"$11,000 to $11,999",diploma and professional qualification,1300
+2023,female,"$11,000 to $11,999",degree,14300
+2023,female,"$12,000 and over",primary and below,0
+2023,female,"$12,000 and over",lower secondary,300
+2023,female,"$12,000 and over",secondary,800
+2023,female,"$12,000 and over",post-secondary (non-tertiary),1200
+2023,female,"$12,000 and over",diploma and professional qualification,6100
+2023,female,"$12,000 and over",degree,69100
+2024,male,Under $500,primary and below,1700
+2024,male,Under $500,lower secondary,1000
+2024,male,Under $500,secondary,2300
+2024,male,Under $500,post-secondary (non-tertiary),1500
+2024,male,Under $500,diploma and professional qualification,1400
+2024,male,Under $500,degree,1100
+2024,male,$500 to $999,primary and below,5900
+2024,male,$500 to $999,lower secondary,2700
+2024,male,$500 to $999,secondary,7800
+2024,male,$500 to $999,post-secondary (non-tertiary),5800
+2024,male,$500 to $999,diploma and professional qualification,4000
+2024,male,$500 to $999,degree,2300
+2024,male,"$1,000 to $1,499",primary and below,13900
+2024,male,"$1,000 to $1,499",lower secondary,7300
+2024,male,"$1,000 to $1,499",secondary,13600
+2024,male,"$1,000 to $1,499",post-secondary (non-tertiary),11400
+2024,male,"$1,000 to $1,499",diploma and professional qualification,7700
+2024,male,"$1,000 to $1,499",degree,5100
+2024,male,"$1,500 to $1,999",primary and below,21900
+2024,male,"$1,500 to $1,999",lower secondary,9600
+2024,male,"$1,500 to $1,999",secondary,17400
+2024,male,"$1,500 to $1,999",post-secondary (non-tertiary),15000
+2024,male,"$1,500 to $1,999",diploma and professional qualification,9100
+2024,male,"$1,500 to $1,999",degree,6900
+2024,male,"$2,000 to $2,499",primary and below,16100
+2024,male,"$2,000 to $2,499",lower secondary,7900
+2024,male,"$2,000 to $2,499",secondary,20500
+2024,male,"$2,000 to $2,499",post-secondary (non-tertiary),19300
+2024,male,"$2,000 to $2,499",diploma and professional qualification,12900
+2024,male,"$2,000 to $2,499",degree,8200
+2024,male,"$2,500 to $2,999",primary and below,10000
+2024,male,"$2,500 to $2,999",lower secondary,7200
+2024,male,"$2,500 to $2,999",secondary,18200
+2024,male,"$2,500 to $2,999",post-secondary (non-tertiary),17800
+2024,male,"$2,500 to $2,999",diploma and professional qualification,18300
+2024,male,"$2,500 to $2,999",degree,7100
+2024,male,"$3,000 to $3,999",primary and below,11400
+2024,male,"$3,000 to $3,999",lower secondary,11600
+2024,male,"$3,000 to $3,999",secondary,31800
+2024,male,"$3,000 to $3,999",post-secondary (non-tertiary),29100
+2024,male,"$3,000 to $3,999",diploma and professional qualification,46700
+2024,male,"$3,000 to $3,999",degree,29800
+2024,male,"$4,000 to $4,999",primary and below,4500
+2024,male,"$4,000 to $4,999",lower secondary,5300
+2024,male,"$4,000 to $4,999",secondary,18100
+2024,male,"$4,000 to $4,999",post-secondary (non-tertiary),15100
+2024,male,"$4,000 to $4,999",diploma and professional qualification,34500
+2024,male,"$4,000 to $4,999",degree,43700
+2024,male,"$5,000 to $5,999",primary and below,1900
+2024,male,"$5,000 to $5,999",lower secondary,3500
+2024,male,"$5,000 to $5,999",secondary,9800
+2024,male,"$5,000 to $5,999",post-secondary (non-tertiary),10000
+2024,male,"$5,000 to $5,999",diploma and professional qualification,31200
+2024,male,"$5,000 to $5,999",degree,54600
+2024,male,"$6,000 to $6,999",primary and below,600
+2024,male,"$6,000 to $6,999",lower secondary,1400
+2024,male,"$6,000 to $6,999",secondary,6700
+2024,male,"$6,000 to $6,999",post-secondary (non-tertiary),4400
+2024,male,"$6,000 to $6,999",diploma and professional qualification,18000
+2024,male,"$6,000 to $6,999",degree,43600
+2024,male,"$7,000 to $7,999",primary and below,400
+2024,male,"$7,000 to $7,999",lower secondary,400
+2024,male,"$7,000 to $7,999",secondary,3400
+2024,male,"$7,000 to $7,999",post-secondary (non-tertiary),2900
+2024,male,"$7,000 to $7,999",diploma and professional qualification,13700
+2024,male,"$7,000 to $7,999",degree,39100
+2024,male,"$8,000 to $8,999",primary and below,600
+2024,male,"$8,000 to $8,999",lower secondary,900
+2024,male,"$8,000 to $8,999",secondary,2900
+2024,male,"$8,000 to $8,999",post-secondary (non-tertiary),2300
+2024,male,"$8,000 to $8,999",diploma and professional qualification,9300
+2024,male,"$8,000 to $8,999",degree,38200
+2024,male,"$9,000 to $9,999",primary and below,200
+2024,male,"$9,000 to $9,999",lower secondary,100
+2024,male,"$9,000 to $9,999",secondary,1900
+2024,male,"$9,000 to $9,999",post-secondary (non-tertiary),1000
+2024,male,"$9,000 to $9,999",diploma and professional qualification,6400
+2024,male,"$9,000 to $9,999",degree,32500
+2024,male,"$10,000 to $10,999",primary and below,200
+2024,male,"$10,000 to $10,999",lower secondary,400
+2024,male,"$10,000 to $10,999",secondary,2100
+2024,male,"$10,000 to $10,999",post-secondary (non-tertiary),1300
+2024,male,"$10,000 to $10,999",diploma and professional qualification,7200
+2024,male,"$10,000 to $10,999",degree,35600
+2024,male,"$11,000 to $11,999",primary and below,0
+2024,male,"$11,000 to $11,999",lower secondary,100
+2024,male,"$11,000 to $11,999",secondary,900
+2024,male,"$11,000 to $11,999",post-secondary (non-tertiary),400
+2024,male,"$11,000 to $11,999",diploma and professional qualification,2600
+2024,male,"$11,000 to $11,999",degree,25600
+2024,male,"$12,000 and over",primary and below,400
+2024,male,"$12,000 and over",lower secondary,600
+2024,male,"$12,000 and over",secondary,2300
+2024,male,"$12,000 and over",post-secondary (non-tertiary),2600
+2024,male,"$12,000 and over",diploma and professional qualification,11600
+2024,male,"$12,000 and over",degree,141200
+2024,female,Under $500,primary and below,3900
+2024,female,Under $500,lower secondary,1100
+2024,female,Under $500,secondary,4300
+2024,female,Under $500,post-secondary (non-tertiary),2700
+2024,female,Under $500,diploma and professional qualification,3300
+2024,female,Under $500,degree,3100
+2024,female,$500 to $999,primary and below,11800
+2024,female,$500 to $999,lower secondary,4500
+2024,female,$500 to $999,secondary,12300
+2024,female,$500 to $999,post-secondary (non-tertiary),10200
+2024,female,$500 to $999,diploma and professional qualification,6600
+2024,female,$500 to $999,degree,5400
+2024,female,"$1,000 to $1,499",primary and below,17200
+2024,female,"$1,000 to $1,499",lower secondary,4500
+2024,female,"$1,000 to $1,499",secondary,16000
+2024,female,"$1,000 to $1,499",post-secondary (non-tertiary),13100
+2024,female,"$1,000 to $1,499",diploma and professional qualification,10300
+2024,female,"$1,000 to $1,499",degree,9800
+2024,female,"$1,500 to $1,999",primary and below,19400
+2024,female,"$1,500 to $1,999",lower secondary,7600
+2024,female,"$1,500 to $1,999",secondary,18100
+2024,female,"$1,500 to $1,999",post-secondary (non-tertiary),15800
+2024,female,"$1,500 to $1,999",diploma and professional qualification,10500
+2024,female,"$1,500 to $1,999",degree,8400
+2024,female,"$2,000 to $2,499",primary and below,13900
+2024,female,"$2,000 to $2,499",lower secondary,8200
+2024,female,"$2,000 to $2,499",secondary,19100
+2024,female,"$2,000 to $2,499",post-secondary (non-tertiary),14900
+2024,female,"$2,000 to $2,499",diploma and professional qualification,15300
+2024,female,"$2,000 to $2,499",degree,11900
+2024,female,"$2,500 to $2,999",primary and below,5100
+2024,female,"$2,500 to $2,999",lower secondary,6100
+2024,female,"$2,500 to $2,999",secondary,16500
+2024,female,"$2,500 to $2,999",post-secondary (non-tertiary),15800
+2024,female,"$2,500 to $2,999",diploma and professional qualification,21100
+2024,female,"$2,500 to $2,999",degree,14800
+2024,female,"$3,000 to $3,999",primary and below,4300
+2024,female,"$3,000 to $3,999",lower secondary,6900
+2024,female,"$3,000 to $3,999",secondary,29900
+2024,female,"$3,000 to $3,999",post-secondary (non-tertiary),19000
+2024,female,"$3,000 to $3,999",diploma and professional qualification,54800
+2024,female,"$3,000 to $3,999",degree,56900
+2024,female,"$4,000 to $4,999",primary and below,500
+2024,female,"$4,000 to $4,999",lower secondary,2700
+2024,female,"$4,000 to $4,999",secondary,15100
+2024,female,"$4,000 to $4,999",post-secondary (non-tertiary),8400
+2024,female,"$4,000 to $4,999",diploma and professional qualification,38200
+2024,female,"$4,000 to $4,999",degree,64700
+2024,female,"$5,000 to $5,999",primary and below,400
+2024,female,"$5,000 to $5,999",lower secondary,1200
+2024,female,"$5,000 to $5,999",secondary,9100
+2024,female,"$5,000 to $5,999",post-secondary (non-tertiary),4900
+2024,female,"$5,000 to $5,999",diploma and professional qualification,24400
+2024,female,"$5,000 to $5,999",degree,62900
+2024,female,"$6,000 to $6,999",primary and below,300
+2024,female,"$6,000 to $6,999",lower secondary,700
+2024,female,"$6,000 to $6,999",secondary,3700
+2024,female,"$6,000 to $6,999",post-secondary (non-tertiary),2700
+2024,female,"$6,000 to $6,999",diploma and professional qualification,13700
+2024,female,"$6,000 to $6,999",degree,48400
+2024,female,"$7,000 to $7,999",primary and below,100
+2024,female,"$7,000 to $7,999",lower secondary,100
+2024,female,"$7,000 to $7,999",secondary,2400
+2024,female,"$7,000 to $7,999",post-secondary (non-tertiary),1500
+2024,female,"$7,000 to $7,999",diploma and professional qualification,9600
+2024,female,"$7,000 to $7,999",degree,43000
+2024,female,"$8,000 to $8,999",primary and below,200
+2024,female,"$8,000 to $8,999",lower secondary,200
+2024,female,"$8,000 to $8,999",secondary,1900
+2024,female,"$8,000 to $8,999",post-secondary (non-tertiary),1300
+2024,female,"$8,000 to $8,999",diploma and professional qualification,6200
+2024,female,"$8,000 to $8,999",degree,33900
+2024,female,"$9,000 to $9,999",primary and below,0
+2024,female,"$9,000 to $9,999",lower secondary,100
+2024,female,"$9,000 to $9,999",secondary,900
+2024,female,"$9,000 to $9,999",post-secondary (non-tertiary),600
+2024,female,"$9,000 to $9,999",diploma and professional qualification,3400
+2024,female,"$9,000 to $9,999",degree,26100
+2024,female,"$10,000 to $10,999",primary and below,200
+2024,female,"$10,000 to $10,999",lower secondary,100
+2024,female,"$10,000 to $10,999",secondary,900
+2024,female,"$10,000 to $10,999",post-secondary (non-tertiary),1100
+2024,female,"$10,000 to $10,999",diploma and professional qualification,3900
+2024,female,"$10,000 to $10,999",degree,28000
+2024,female,"$11,000 to $11,999",primary and below,0
+2024,female,"$11,000 to $11,999",lower secondary,100
+2024,female,"$11,000 to $11,999",secondary,100
+2024,female,"$11,000 to $11,999",post-secondary (non-tertiary),600
+2024,female,"$11,000 to $11,999",diploma and professional qualification,1400
+2024,female,"$11,000 to $11,999",degree,15900
+2024,female,"$12,000 and over",primary and below,100
+2024,female,"$12,000 and over",lower secondary,300
+2024,female,"$12,000 and over",secondary,700
+2024,female,"$12,000 and over",post-secondary (non-tertiary),1200
+2024,female,"$12,000 and over",diploma and professional qualification,5900
+2024,female,"$12,000 and over",degree,80000
+2025,male,Under $500,primary and below,900
+2025,male,Under $500,lower secondary,200
+2025,male,Under $500,secondary,3100
+2025,male,Under $500,post-secondary (non-tertiary),2100
+2025,male,Under $500,diploma and professional qualification,2000
+2025,male,Under $500,degree,1700
+2025,male,$500 to $999,primary and below,3700
+2025,male,$500 to $999,lower secondary,1500
+2025,male,$500 to $999,secondary,5300
+2025,male,$500 to $999,post-secondary (non-tertiary),4000
+2025,male,$500 to $999,diploma and professional qualification,3100
+2025,male,$500 to $999,degree,1700
+2025,male,"$1,000 to $1,499",primary and below,5100
+2025,male,"$1,000 to $1,499",lower secondary,2700
+2025,male,"$1,000 to $1,499",secondary,6500
+2025,male,"$1,000 to $1,499",post-secondary (non-tertiary),4700
+2025,male,"$1,000 to $1,499",diploma and professional qualification,4700
+2025,male,"$1,000 to $1,499",degree,3500
+2025,male,"$1,500 to $1,999",primary and below,29600
+2025,male,"$1,500 to $1,999",lower secondary,14300
+2025,male,"$1,500 to $1,999",secondary,20600
+2025,male,"$1,500 to $1,999",post-secondary (non-tertiary),16900
+2025,male,"$1,500 to $1,999",diploma and professional qualification,12900
+2025,male,"$1,500 to $1,999",degree,8500
+2025,male,"$2,000 to $2,499",primary and below,16900
+2025,male,"$2,000 to $2,499",lower secondary,10600
+2025,male,"$2,000 to $2,499",secondary,15900
+2025,male,"$2,000 to $2,499",post-secondary (non-tertiary),14900
+2025,male,"$2,000 to $2,499",diploma and professional qualification,12700
+2025,male,"$2,000 to $2,499",degree,6500
+2025,male,"$2,500 to $2,999",primary and below,9500
+2025,male,"$2,500 to $2,999",lower secondary,9500
+2025,male,"$2,500 to $2,999",secondary,16400
+2025,male,"$2,500 to $2,999",post-secondary (non-tertiary),17700
+2025,male,"$2,500 to $2,999",diploma and professional qualification,17400
+2025,male,"$2,500 to $2,999",degree,7400
+2025,male,"$3,000 to $3,999",primary and below,12900
+2025,male,"$3,000 to $3,999",lower secondary,13200
+2025,male,"$3,000 to $3,999",secondary,38300
+2025,male,"$3,000 to $3,999",post-secondary (non-tertiary),35800
+2025,male,"$3,000 to $3,999",diploma and professional qualification,44400
+2025,male,"$3,000 to $3,999",degree,28700
+2025,male,"$4,000 to $4,999",primary and below,3900
+2025,male,"$4,000 to $4,999",lower secondary,5200
+2025,male,"$4,000 to $4,999",secondary,17800
+2025,male,"$4,000 to $4,999",post-secondary (non-tertiary),16500
+2025,male,"$4,000 to $4,999",diploma and professional qualification,34900
+2025,male,"$4,000 to $4,999",degree,38000
+2025,male,"$5,000 to $5,999",primary and below,2100
+2025,male,"$5,000 to $5,999",lower secondary,2900
+2025,male,"$5,000 to $5,999",secondary,12400
+2025,male,"$5,000 to $5,999",post-secondary (non-tertiary),10900
+2025,male,"$5,000 to $5,999",diploma and professional qualification,31000
+2025,male,"$5,000 to $5,999",degree,47900
+2025,male,"$6,000 to $6,999",primary and below,1200
+2025,male,"$6,000 to $6,999",lower secondary,1400
+2025,male,"$6,000 to $6,999",secondary,4700
+2025,male,"$6,000 to $6,999",post-secondary (non-tertiary),5700
+2025,male,"$6,000 to $6,999",diploma and professional qualification,22300
+2025,male,"$6,000 to $6,999",degree,40100
+2025,male,"$7,000 to $7,999",primary and below,300
+2025,male,"$7,000 to $7,999",lower secondary,900
+2025,male,"$7,000 to $7,999",secondary,3200
+2025,male,"$7,000 to $7,999",post-secondary (non-tertiary),3700
+2025,male,"$7,000 to $7,999",diploma and professional qualification,14100
+2025,male,"$7,000 to $7,999",degree,42000
+2025,male,"$8,000 to $8,999",primary and below,400
+2025,male,"$8,000 to $8,999",lower secondary,900
+2025,male,"$8,000 to $8,999",secondary,2700
+2025,male,"$8,000 to $8,999",post-secondary (non-tertiary),1900
+2025,male,"$8,000 to $8,999",diploma and professional qualification,11800
+2025,male,"$8,000 to $8,999",degree,40600
+2025,male,"$9,000 to $9,999",primary and below,200
+2025,male,"$9,000 to $9,999",lower secondary,500
+2025,male,"$9,000 to $9,999",secondary,2000
+2025,male,"$9,000 to $9,999",post-secondary (non-tertiary),900
+2025,male,"$9,000 to $9,999",diploma and professional qualification,5800
+2025,male,"$9,000 to $9,999",degree,32800
+2025,male,"$10,000 to $10,999",primary and below,400
+2025,male,"$10,000 to $10,999",lower secondary,500
+2025,male,"$10,000 to $10,999",secondary,1800
+2025,male,"$10,000 to $10,999",post-secondary (non-tertiary),1800
+2025,male,"$10,000 to $10,999",diploma and professional qualification,7000
+2025,male,"$10,000 to $10,999",degree,40000
+2025,male,"$11,000 to $11,999",primary and below,100
+2025,male,"$11,000 to $11,999",lower secondary,400
+2025,male,"$11,000 to $11,999",secondary,500
+2025,male,"$11,000 to $11,999",post-secondary (non-tertiary),800
+2025,male,"$11,000 to $11,999",diploma and professional qualification,3100
+2025,male,"$11,000 to $11,999",degree,24000
+2025,male,"$12,000 and over",primary and below,500
+2025,male,"$12,000 and over",lower secondary,900
+2025,male,"$12,000 and over",secondary,3400
+2025,male,"$12,000 and over",post-secondary (non-tertiary),2300
+2025,male,"$12,000 and over",diploma and professional qualification,12300
+2025,male,"$12,000 and over",degree,155100
+2025,female,Under $500,primary and below,1900
+2025,female,Under $500,lower secondary,600
+2025,female,Under $500,secondary,4500
+2025,female,Under $500,post-secondary (non-tertiary),3800
+2025,female,Under $500,diploma and professional qualification,3800
+2025,female,Under $500,degree,2300
+2025,female,$500 to $999,primary and below,7900
+2025,female,$500 to $999,lower secondary,2900
+2025,female,$500 to $999,secondary,6900
+2025,female,$500 to $999,post-secondary (non-tertiary),5600
+2025,female,$500 to $999,diploma and professional qualification,5000
+2025,female,$500 to $999,degree,4400
+2025,female,"$1,000 to $1,499",primary and below,6200
+2025,female,"$1,000 to $1,499",lower secondary,3400
+2025,female,"$1,000 to $1,499",secondary,8200
+2025,female,"$1,000 to $1,499",post-secondary (non-tertiary),8600
+2025,female,"$1,000 to $1,499",diploma and professional qualification,5700
+2025,female,"$1,000 to $1,499",degree,5600
+2025,female,"$1,500 to $1,999",primary and below,34300
+2025,female,"$1,500 to $1,999",lower secondary,12500
+2025,female,"$1,500 to $1,999",secondary,26300
+2025,female,"$1,500 to $1,999",post-secondary (non-tertiary),21800
+2025,female,"$1,500 to $1,999",diploma and professional qualification,13300
+2025,female,"$1,500 to $1,999",degree,12700
+2025,female,"$2,000 to $2,499",primary and below,13100
+2025,female,"$2,000 to $2,499",lower secondary,7500
+2025,female,"$2,000 to $2,499",secondary,15800
+2025,female,"$2,000 to $2,499",post-secondary (non-tertiary),15000
+2025,female,"$2,000 to $2,499",diploma and professional qualification,11500
+2025,female,"$2,000 to $2,499",degree,11000
+2025,female,"$2,500 to $2,999",primary and below,8600
+2025,female,"$2,500 to $2,999",lower secondary,6100
+2025,female,"$2,500 to $2,999",secondary,17300
+2025,female,"$2,500 to $2,999",post-secondary (non-tertiary),14100
+2025,female,"$2,500 to $2,999",diploma and professional qualification,18100
+2025,female,"$2,500 to $2,999",degree,12100
+2025,female,"$3,000 to $3,999",primary and below,5700
+2025,female,"$3,000 to $3,999",lower secondary,8600
+2025,female,"$3,000 to $3,999",secondary,28900
+2025,female,"$3,000 to $3,999",post-secondary (non-tertiary),23400
+2025,female,"$3,000 to $3,999",diploma and professional qualification,51100
+2025,female,"$3,000 to $3,999",degree,49300
+2025,female,"$4,000 to $4,999",primary and below,1500
+2025,female,"$4,000 to $4,999",lower secondary,3600
+2025,female,"$4,000 to $4,999",secondary,12800
+2025,female,"$4,000 to $4,999",post-secondary (non-tertiary),9400
+2025,female,"$4,000 to $4,999",diploma and professional qualification,40400
+2025,female,"$4,000 to $4,999",degree,61400
+2025,female,"$5,000 to $5,999",primary and below,400
+2025,female,"$5,000 to $5,999",lower secondary,1900
+2025,female,"$5,000 to $5,999",secondary,8100
+2025,female,"$5,000 to $5,999",post-secondary (non-tertiary),4900
+2025,female,"$5,000 to $5,999",diploma and professional qualification,27600
+2025,female,"$5,000 to $5,999",degree,68500
+2025,female,"$6,000 to $6,999",primary and below,200
+2025,female,"$6,000 to $6,999",lower secondary,600
+2025,female,"$6,000 to $6,999",secondary,4700
+2025,female,"$6,000 to $6,999",post-secondary (non-tertiary),2700
+2025,female,"$6,000 to $6,999",diploma and professional qualification,15900
+2025,female,"$6,000 to $6,999",degree,47700
+2025,female,"$7,000 to $7,999",primary and below,100
+2025,female,"$7,000 to $7,999",lower secondary,500
+2025,female,"$7,000 to $7,999",secondary,2600
+2025,female,"$7,000 to $7,999",post-secondary (non-tertiary),2200
+2025,female,"$7,000 to $7,999",diploma and professional qualification,10400
+2025,female,"$7,000 to $7,999",degree,44300
+2025,female,"$8,000 to $8,999",primary and below,100
+2025,female,"$8,000 to $8,999",lower secondary,300
+2025,female,"$8,000 to $8,999",secondary,1800
+2025,female,"$8,000 to $8,999",post-secondary (non-tertiary),1100
+2025,female,"$8,000 to $8,999",diploma and professional qualification,7400
+2025,female,"$8,000 to $8,999",degree,40500
+2025,female,"$9,000 to $9,999",primary and below,100
+2025,female,"$9,000 to $9,999",lower secondary,200
+2025,female,"$9,000 to $9,999",secondary,1000
+2025,female,"$9,000 to $9,999",post-secondary (non-tertiary),900
+2025,female,"$9,000 to $9,999",diploma and professional qualification,4100
+2025,female,"$9,000 to $9,999",degree,27400
+2025,female,"$10,000 to $10,999",primary and below,0
+2025,female,"$10,000 to $10,999",lower secondary,300
+2025,female,"$10,000 to $10,999",secondary,1100
+2025,female,"$10,000 to $10,999",post-secondary (non-tertiary),700
+2025,female,"$10,000 to $10,999",diploma and professional qualification,4100
+2025,female,"$10,000 to $10,999",degree,30500
+2025,female,"$11,000 to $11,999",primary and below,0
+2025,female,"$11,000 to $11,999",lower secondary,100
+2025,female,"$11,000 to $11,999",secondary,600
+2025,female,"$11,000 to $11,999",post-secondary (non-tertiary),300
+2025,female,"$11,000 to $11,999",diploma and professional qualification,2200
+2025,female,"$11,000 to $11,999",degree,16700
+2025,female,"$12,000 and over",primary and below,200
+2025,female,"$12,000 and over",lower secondary,100
+2025,female,"$12,000 and over",secondary,1900
+2025,female,"$12,000 and over",post-secondary (non-tertiary),1100
+2025,female,"$12,000 and over",diploma and professional qualification,6600
+2025,female,"$12,000 and over",degree,84300
